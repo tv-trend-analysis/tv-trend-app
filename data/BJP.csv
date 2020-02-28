@@ -1,0 +1,655 @@
+id,original_text,clean_text,sentiment,polarity,subjectivity,lang,place,place_coord_boundaries
+1233274763402833920,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274761649803265,"RT @ANI: Kapil Mishra, BJP: No question is being asked to people who are talking about dividing country or those on whose terrace petrol bo…",RT ANI Kapil Mishra BJP No question asked people talking dividing country whose terrace petrol bo,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274760450035712,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,Bombay,
+1233274758365614080,RT @mahesh10816: Congress culture Vs BJP culture https://t.co/nKJrIcehXl,RT mahesh10816 Congress culture Vs BJP culture,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274756922691584,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274755442188294,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,,
+1233274754863378432,RT @amitmalviya: In less than 20 minutes after Kejriwal reluctantly suspended Tahir Hussain amidst mounting evidence of his complicity in r…,RT amitmalviya In less 20 minutes Kejriwal reluctantly suspended Tahir Hussain amidst mounting evidence complicity r,"Sentiment(polarity=-0.16666666666666666, subjectivity=0.06666666666666667)",-0.16666666666666666,0.06666666666666667,en,"New Delhi, India",
+1233274754683019267,@ArvindKejriwal I was looking u as a last hope for India but I was wrong.u r also doing d same job what BJP is doin… https://t.co/KARCVMXhDk,ArvindKejriwal I looking u last hope India I wrong.u r also job BJP doin,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,en,"Bihar, India",
+1233274752430510081,"RT @ShitSaniyaSays: Idk who needs to hear this but the BJP doesn't love this country, it's army, the Hindus or even the cows. It really jus…",RT ShitSaniyaSays Idk needs hear BJP n't love country 's army Hindus even cows It really jus,"Sentiment(polarity=0.35, subjectivity=0.4)",0.35,0.4,en,,
+1233274750035734528,"RT @vinayaravind: It's astonishing how skilful the BJP propaganda machine has been, beautifully exploiting the liberals' thirst for both-si…",RT vinayaravind It 's astonishing skilful BJP propaganda machine beautifully exploiting liberals thirst both-si,"Sentiment(polarity=0.4166666666666667, subjectivity=0.7000000000000001)",0.4166666666666667,0.7000000000000001,en,Mumbai,
+1233274745392484353,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,Bendakaluru,
+1233274744331325440,"RT @IndianMuslimahs: Global Scribes' Body Asks BJP Leaders to Stop Online Harassment of The Wire's Arfa Khanum Sherwani
+
+@khanumarfa Sherwa…",RT IndianMuslimahs Global Scribes Body Asks BJP Leaders Stop Online Harassment The Wire 's Arfa Khanum Sherwani khanumarfa Sherwa,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274742662189056,"RT @ttindia: The timing of the Centre’s notification transferring Justice S. Muralidhar, hours after he pulled up Delhi police for inaction…",RT ttindia The timing Centre notification transferring Justice S. Muralidhar hours pulled Delhi police inaction,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Finland,
+1233274738354483201,RT @Samanth_S: The BJP seems to excel at creating conditions in which violence can unfold. The emblematic photo of this violence is of a Mu…,RT Samanth_S The BJP seems excel creating conditions violence unfold The emblematic photo violence Mu,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274737339576320,"RT @arjunsethi81: While BJP leaders incite Hindutva mob violence &amp; police turn away, Sikh gurdwaras across Delhi have opened their doors to…",RT arjunsethi81 While BJP leaders incite Hindutva mob violence amp police turn away Sikh gurdwaras across Delhi opened doors,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Montreal - New Delhi,
+1233274732843163650,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Bogor, West Java",
+1233274731538845697,"@ambkcsingh Yes Shri Guru Teg Bahadur, Shri Guru Govind Singh, 4 Sahibzaade, Mati Singh, Banda Bahadur, Chatrapati… https://t.co/ixBGJ8HxHC",ambkcsingh Yes Shri Guru Teg Bahadur Shri Guru Govind Singh 4 Sahibzaade Mati Singh Banda Bahadur Chatrapati,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274725419438081,Congress only believes in divide and rule ... they are creating these riots and killing people and claiming the cit… https://t.co/z4IcTRTxsm,Congress believes divide rule ... creating riots killing people claiming cit,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233274722223157248,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Navi Mumbai, India",
+1233274705735385089,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274700966481921,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,,
+1233274699011907584,RT @mniyaz09: RSS &amp; BJP goons attacked Muslims properties https://t.co/jWYh9Gev5L,RT mniyaz09 RSS amp BJP goons attacked Muslims properties,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Bengaluru, India",
+1233274691579629568,"RT @__R_a_j_: 6. Know your local Hindu leader, he could be from BJP, RSS, Bajarang Dal, VHP, Hindu Yuva Vahini etc. Make sure he is just on…",RT __R_a_j_ 6 Know local Hindu leader could BJP RSS Bajarang Dal VHP Hindu Yuva Vahini etc Make sure,"Sentiment(polarity=0.25, subjectivity=0.4444444444444444)",0.25,0.4444444444444444,en,,
+1233274684755415042,"RT @knightwatchman_: BJP leader BL Santhosh threatened Bernie Sanders that he is compelling them(BJP) to interfere in the US elections.
+
+He…",RT knightwatchman_ BJP leader BL Santhosh threatened Bernie Sanders compelling BJP interfere US elections He,"Sentiment(polarity=0.3, subjectivity=0.6)",0.3,0.6,en,India,
+1233274676555575296,RT @nrajabpcl: @Dr_MR_Satapathy @UshaNirmala @mahendra3 @anandpdwivedi @shirodkarharshu @ArunDeshpande20 @Satishrathod100 @rajagopalan8 @KS…,RT nrajabpcl Dr_MR_Satapathy UshaNirmala mahendra3 anandpdwivedi shirodkarharshu ArunDeshpande20 Satishrathod100 rajagopalan8 KS,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274672944500736,"RT @GoofyOlives: Part 2: Anti CAA protest planned or just a  coincidences of events.
+
+By January 2020 results of Jharkhand were out and BJP…",RT GoofyOlives Part 2 Anti CAA protest planned coincidences events By January 2020 results Jharkhand BJP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Toonz World,
+1233274662773116933,"RT @IndiaToday: The Shiv Sena has slammed the BJP government over violence in northeast #Delhi.
+#Politics 
+
+https://t.co/421racObrf",RT IndiaToday The Shiv Sena slammed BJP government violence northeast Delhi Politics,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"New Delhi, India",
+1233274660235640832,"RT @blackholesm: @RahulGandhi
+@majorgauravarya 
+@ABPNews 
+RSS extremists attacking Muslims in Delhi will result in direct collision between…",RT blackholesm RahulGandhi majorgauravarya ABPNews RSS extremists attacking Muslims Delhi result direct collision,"Sentiment(polarity=0.1, subjectivity=0.4)",0.1,0.4,en,Pakistan: 🇵🇰 🇹🇷 🇧🇭 🇸🇦,
+1233274659287658496,"RT @scribe_prashant: Riots happened. People died. Mayhem left behind. 
+
+Questions, allegations raised on two netas: #TahirHussain of AAP an…",RT scribe_prashant Riots happened People died Mayhem left behind Questions allegations raised two netas TahirHussain AAP,"Sentiment(polarity=-0.2, subjectivity=0.35)",-0.2,0.35,en,Singara Chennai!!,
+1233274656175484929,"RT @salahdin08: @Narayanan3 Among Delhi riot victims, a 22-year-old auto driver, Bihar labourer, and father of six
+The death toll climbed t…",RT salahdin08 Narayanan3 Among Delhi riot victims 22-year-old auto driver Bihar labourer father six The death toll climbed,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274655747690496,"Indeed this must happen.. 
+
+Also bjp leaders can help this by organizing chai pe charcha type events.. https://t.co/ureF21SKLp",Indeed must happen.. Also bjp leaders help organizing chai pe charcha type events..,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Bangalore,
+1233274651159203841,RT @AskChandni: Shame on you @AmitShah for not acting on the terror against Hindus. We Hindus have voted you blindly and what did you give…,RT AskChandni Shame AmitShah acting terror Hindus We Hindus voted blindly give,"Sentiment(polarity=-0.25, subjectivity=0.3333333333333333)",-0.25,0.3333333333333333,en,India,
+1233274649535971328,"RT @Parv05: While I was covering a peace March today in Jantar Mantar, BJP representative Kapil Mishra too reach the spot and I did my job…",RT Parv05 While I covering peace March today Jantar Mantar BJP representative Kapil Mishra reach spot I job,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233274648231464961,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274644922134529,@rahulpandita @TheJaggi Behenchod have you gone through statements of BJP leaders in last 5 years ?,rahulpandita TheJaggi Behenchod gone statements BJP leaders last 5 years,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,en,Sydney- Chandigarh ,
+1233274642590289920,"RT @imMAK02: BJP Lawmaker T Raja Singh spewed venom against Muslims. 
+
+He says Modi and Amit Shah will skin Muslims, he called Muslims trai…",RT imMAK02 BJP Lawmaker T Raja Singh spewed venom Muslims He says Modi Amit Shah skin Muslims called Muslims trai,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274641654792194,@19_abhimanyu @smritiirani @desimojito @pradip103 @narendramodi @Rupa_Books @jankibaat1 I don't care. This isn't th… https://t.co/ZaO5etVlZH,19_abhimanyu smritiirani desimojito pradip103 narendramodi Rupa_Books jankibaat1 I n't care This n't th,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274641436643329,"RT @SidrahDP: Translation: Anything against the dictats and beliefs of the BJP is hate speech.
+
+Our justice system is now catering to cripp…",RT SidrahDP Translation Anything dictats beliefs BJP hate speech Our justice system catering cripp,"Sentiment(polarity=-0.8, subjectivity=0.9)",-0.8,0.9,en,,
+1233274636173004806,"RT @imMAK02: BJP Lawmaker T Raja Singh spewed venom against Muslims. 
+
+He says Modi and Amit Shah will skin Muslims, he called Muslims trai…",RT imMAK02 BJP Lawmaker T Raja Singh spewed venom Muslims He says Modi Amit Shah skin Muslims called Muslims trai,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"New Delhi, India",
+1233274631940755458,"@Parv05 Sorry to hear.
+
+But, your Masters will still defend BJP and lick their boots.",Parv05 Sorry hear But Masters still defend BJP lick boots,"Sentiment(polarity=-0.5, subjectivity=1.0)",-0.5,1.0,en,சென்னை,
+1233274631819128832,"Narrative war is lost by BJP, Hindu's got mayhem ed and world is crying for muslims, what a shame for a party which… https://t.co/wlyhEeX9x8",Narrative war lost BJP Hindu 's got mayhem ed world crying muslims shame party,"Sentiment(polarity=-0.2, subjectivity=0.6)",-0.2,0.6,en,India,
+1233274628161855490,"RT @arjundsage: One more rapist emerges from Bharat Jalao Party 
+
+https://t.co/TtAzfRMg2w",RT arjundsage One rapist emerges Bharat Jalao Party,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,ଓଡ଼ିଶା,
+1233274626391732224,"RT @jagdishshetty: Nehru was envious of Ambedkar, Savarkar: Dr Subramanian @Swamy39  https://t.co/DaNXv223ZW via @NewIndianXpress",RT jagdishshetty Nehru envious Ambedkar Savarkar Dr Subramanian Swamy39 via NewIndianXpress,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,DELHI,
+1233274617780981760,@ArvindKejriwal Why were trains coming to Delhi canceled on 24/02/2020?  Was this a big conspiracy to spread riots… https://t.co/s41umWgUIx,ArvindKejriwal Why trains coming Delhi canceled 24/02/2020 Was big conspiracy spread riots,"Sentiment(polarity=0.0, subjectivity=0.1)",0.0,0.1,en,Derawal Nagar Delhi,
+1233274615981436929,RT @haryannvi: Abhinav Chandrachud’s ‘Republic of Religion’ is an excellent read. A short history (from Brit rule till before rise of BJP)…,RT haryannvi Abhinav Chandrachud Republic Religion excellent read A short history Brit rule till rise BJP,"Sentiment(polarity=0.5, subjectivity=0.65)",0.5,0.65,en,Bangalore,
+1233274615738327040,RT @iSinghApurva: Please take action @DelhiPolice now.,RT iSinghApurva Please take action DelhiPolice,"Sentiment(polarity=0.1, subjectivity=0.1)",0.1,0.1,en,"नोएडा, उत्तर प्रदेश, भारत",
+1233274614400221184,"RT @scribe_prashant: Riots happened. People died. Mayhem left behind. 
+
+Questions, allegations raised on two netas: #TahirHussain of AAP an…",RT scribe_prashant Riots happened People died Mayhem left behind Questions allegations raised two netas TahirHussain AAP,"Sentiment(polarity=-0.2, subjectivity=0.35)",-0.2,0.35,en,,
+1233274614094188544,"RT @AMerukar: Dear BJP, I’m a Hindu and I reject Hindutva
+
+Don’t teach me about my own religion. Who I should worship. How I should dress o…",RT AMerukar Dear BJP I Hindu I reject Hindutva Don teach religion Who I worship How I dress,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274609065086976,"RT @nilanjanaroy: Close to 40 dead. Journalists making that ""both sides"" argument, you have amnesia if you've forgotten the run-up to the D…",RT nilanjanaroy Close 40 dead Journalists making `` sides '' argument amnesia 've forgotten run-up D,"Sentiment(polarity=-0.2, subjectivity=0.4)",-0.2,0.4,en,United States of anxiety,
+1233274607089733633,"@rm_bjp The ecosystem of terrorists preparing lawyers ,media to save these barbarics . They already busy with creat… https://t.co/Qxb5r85KSX",rm_bjp The ecosystem terrorists preparing lawyers media save barbarics They already busy creat,"Sentiment(polarity=0.1, subjectivity=0.3)",0.1,0.3,en,The Great India,
+1233274598441046017,"RT @AskChandni: @AmitShah @smritiirani @nsitharaman @rajnathsingh Shame on you 
+@AmitShah
+ for not acting on the terror against Hindus. We…",RT AskChandni AmitShah smritiirani nsitharaman rajnathsingh Shame AmitShah acting terror Hindus We,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274587015598080,"RT @SaketGokhale: SG Tushar Mehta says in Delhi HC that “it’s not a conducive time to register FIRs against BJP leaders”. 
+
+The only thing…",RT SaketGokhale SG Tushar Mehta says Delhi HC conducive time register FIRs BJP leaders The thing,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274585853775872,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Chennai, India",
+1233274583295430656,"RT @NinaDSchick: The ruling party in India 🇮🇳 is openly using #Deepfakes to manipulate voters. 
+
+#Fakenews has been around for ever  - but…",RT NinaDSchick The ruling party India openly using Deepfakes manipulate voters Fakenews around ever,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,"Norwich, UK",
+1233274580854280192,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Dubai,
+1233274579885404160,RT @mokshiom: @AshramBlr @bengaluru @HMOKarnataka @SureshChavhanke @rajeevgowda @krishnabgowda @drashwathcn @BBMP_MAYOR @BBMPSWMSplComm @bb…,RT mokshiom AshramBlr bengaluru HMOKarnataka SureshChavhanke rajeevgowda krishnabgowda drashwathcn BBMP_MAYOR BBMPSWMSplComm bb,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"New Friends Colony, New Delhi",
+1233274579767959552,"RT @IndurChhugani: Do you agree 
+He's done no wrong ?
+
+""I have received calls by many to kill me. Many people including politicians and jou…",RT IndurChhugani Do agree He 's done wrong `` I received calls many kill Many people including politicians jou,"Sentiment(polarity=0.16666666666666666, subjectivity=0.6333333333333333)",0.16666666666666666,0.6333333333333333,en,"One World, One Country India🌏",
+1233274577989623808,RT @ishayekanwar: Amit shah will be in kolkata on 1st march. Go back amit shah chor @BJP4India @BJP4Bengal @AmitShah @narendramodi @RahulSi…,RT ishayekanwar Amit shah kolkata 1st march Go back amit shah chor BJP4India BJP4Bengal AmitShah narendramodi RahulSi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274575242186752,"RT @AudaciousQuest: AAP in credibility crisis after big win.
+
+""Kejriwal’s strategy of not reacting proactively when the riots began would n…",RT AudaciousQuest AAP credibility crisis big win `` Kejriwal strategy reacting proactively riots began would n,"Sentiment(polarity=0.4, subjectivity=0.25)",0.4,0.25,en,"Mumbai, India",
+1233274574994911235,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274573359022080,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274570431270912,"RT @svaradarajan: In this short video, I explain why the BJP chose to allow Delhi to burn now, despite Trump’s visit | https://t.co/8e5Iqvn…",RT svaradarajan In short video I explain BJP chose allow Delhi burn despite Trump visit,"Sentiment(polarity=0.0, subjectivity=0.3)",0.0,0.3,en,India,
+1233274568883597313,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,,
+1233274568204152834,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,Antarctica,
+1233274561732456448,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274560872681472,"RT @AudaciousQuest: 1- Delhi people are not going to save the minorities
+2 - BJP of course won't save them
+3 - AAP has proved they will sta…",RT AudaciousQuest 1- Delhi people going save minorities 2 BJP course wo n't save 3 AAP proved sta,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274556560920576,"@waglenikhil Kill 2 birds with 1 stone.
+Punish Delhi-ites for handing over a crushing defeat to BJP &amp;
+Put oppositio… https://t.co/0mZJQbFr2X",waglenikhil Kill 2 birds 1 stone Punish Delhi-ites handing crushing defeat BJP amp Put oppositio,"Sentiment(polarity=0.4, subjectivity=0.9)",0.4,0.9,en,,
+1233274553117208576,"RT @SaketGokhale: I am NOT a fan of Tahir Hussain’s party AAP. 
+
+I, however, also know that a BJP mob will see him as a Muslim first than a…",RT SaketGokhale I NOT fan Tahir Hussain party AAP I however also know BJP mob see Muslim first,"Sentiment(polarity=0.25, subjectivity=0.3333333333333333)",0.25,0.3333333333333333,en,"Chennai, India",
+1233274552903294976,"RT @kapsology: Heartening to read such stories where Hindus of Delhi, saved Muslims of Delhi from RSS and Hindu Yuva Vahini goons imported…",RT kapsology Heartening read stories Hindus Delhi saved Muslims Delhi RSS Hindu Yuva Vahini goons imported,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274552815210496,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274552416780293,RT @UmarKhalidJNU: Justice Muralidhar said he cant allow a 1984 repeat. He had earlier convicted Sajjan Kumar for the Sikh genocide. This t…,RT UmarKhalidJNU Justice Muralidhar said cant allow 1984 repeat He earlier convicted Sajjan Kumar Sikh genocide This,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,,
+1233274549187166208,RT @VishuddhBhartiy: @terikahkelunga @ReallySwara She is right. Delhi incident was neither clash nor riot but a well planned pogrom by Isla…,RT VishuddhBhartiy terikahkelunga ReallySwara She right Delhi incident neither clash riot well planned pogrom Isla,"Sentiment(polarity=0.2857142857142857, subjectivity=0.5357142857142857)",0.2857142857142857,0.5357142857142857,en,"New Delhi, India",
+1233274549128458240,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Ghaziabad, India",
+1233274548520472576,RT @AndColorPockeT: All Delhi BJP leaders except Kapil Mishra are sleeping at their homes and Liberals have made sure that they will turn K…,RT AndColorPockeT All Delhi BJP leaders except Kapil Mishra sleeping homes Liberals made sure turn K,"Sentiment(polarity=0.5, subjectivity=0.8888888888888888)",0.5,0.8888888888888888,en,आर्यावर्त,
+1233274547593306112,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en, India,
+1233274546888769536,"RT @captgrc: @BDUTT These r glimpses of old BDUTT. Brave &amp; objective with no fear or favour. Alas, such attitude may nt last long bcs right…",RT captgrc BDUTT These r glimpses old BDUTT Brave amp objective fear favour Alas attitude may nt last long bcs right,"Sentiment(polarity=0.10510204081632654, subjectivity=0.47176870748299315)",0.10510204081632654,0.47176870748299315,en,India,
+1233274543558389761,"RT @TheChetak: At last BJP got one leader in Delhi 
+
+Any guess guys??",RT TheChetak At last BJP got one leader Delhi Any guess guys,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,en," BENGALURU, BHARAT. ",
+1233274543558381568,RT @UmarKhalidJNU: Justice Muralidhar said he cant allow a 1984 repeat. He had earlier convicted Sajjan Kumar for the Sikh genocide. This t…,RT UmarKhalidJNU Justice Muralidhar said cant allow 1984 repeat He earlier convicted Sajjan Kumar Sikh genocide This,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,,
+1233274541540966406,RT @MahuaMoitra: So FIRs against BJP leaders whose hate speech &amp; venom have resulted directly or indirectly in death of 34 people can be lo…,RT MahuaMoitra So FIRs BJP leaders whose hate speech amp venom resulted directly indirectly death 34 people lo,"Sentiment(polarity=-0.35000000000000003, subjectivity=0.65)",-0.35000000000000003,0.65,en,,
+1233274532947005440,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,Mumbai,
+1233274532099756032,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,"Bailiwick of Jersey, United Kingdom",
+1233274531466424321,RT @MahuaMoitra: So FIRs against BJP leaders whose hate speech &amp; venom have resulted directly or indirectly in death of 34 people can be lo…,RT MahuaMoitra So FIRs BJP leaders whose hate speech amp venom resulted directly indirectly death 34 people lo,"Sentiment(polarity=-0.35000000000000003, subjectivity=0.65)",-0.35000000000000003,0.65,en,"Haldwani-Kathgodam, India",
+1233274527678783490,"RT @svaradarajan: In this short video, I explain why the BJP chose to allow Delhi to burn now, despite Trump’s visit | https://t.co/8e5Iqvn…",RT svaradarajan In short video I explain BJP chose allow Delhi burn despite Trump visit,"Sentiment(polarity=0.0, subjectivity=0.3)",0.0,0.3,en,,
+1233274527322451968,"RT @RaisinaSeries: He is not BJP’s Sardar Patel, he is BJP’s Shivraj Patil...",RT RaisinaSeries He BJP Sardar Patel BJP Shivraj Patil ...,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274514621906944,"RT @zarahsultana: Indian Muslims are being killed in the streets of Delhi in scenes resembling the violence witnessed in Gujarat (2002), Mu…",RT zarahsultana Indian Muslims killed streets Delhi scenes resembling violence witnessed Gujarat 2002 Mu,"Sentiment(polarity=-0.2, subjectivity=0.0)",-0.2,0.0,en,,
+1233274511069458432,"RT @newbie109: @DulheRaja10 @Arun2981 @imMAK02 media , cong &amp; bjp r jealous that AAP.won.
+they want 2 defame AAP &amp; make AK.unpopular.",RT newbie109 DulheRaja10 Arun2981 imMAK02 media cong amp bjp r jealous AAP.won want 2 defame AAP amp make AK.unpopular,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274508435427328,"#Congress has once again attacked the Centre on the issue of transfer of the #DelhiHighCourt Judge, Justice… https://t.co/reYZj7z70n",Congress attacked Centre issue transfer DelhiHighCourt Judge Justice,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,india,
+1233274503691587584,@shahid_siddiqui The riots have happened in the areas where AAP mostly lost and BJP won. It proves their point. Bes… https://t.co/xK7GISdMFR,shahid_siddiqui The riots happened areas AAP mostly lost BJP It proves point Bes,"Sentiment(polarity=0.4, subjectivity=0.25)",0.4,0.25,en,"KV, Sector 56, Gurgaon,Haryana",
+1233274499149090816,@ANI Sabko jail me dalna chahiye chahe woh congress/ BJP/ AAP /AIMIM ho .. or so called Bollywood liberals   jisne… https://t.co/JsE3RnYEJD,ANI Sabko jail dalna chahiye chahe woh congress/ BJP/ AAP /AIMIM ho .. called Bollywood liberals jisne,"Sentiment(polarity=-0.1, subjectivity=0.0)",-0.1,0.0,en,Earth 🌍,
+1233274497563688960,"RT @hallagullaboy: Why delhi riots happened in North-East delhi only where as there were so many other muslims areas like Chandni Chowk, ok…",RT hallagullaboy Why delhi riots happened North-East delhi many muslims areas like Chandni Chowk ok,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"Aligarh, India",
+1233274496775311360,In PICs: Union Home Minister @AmitShah in #Bhubabeswar to attend the 24th Eastern Zonal Council at Lok Seva Bhavan.… https://t.co/BQxkaPL2n8,In PICs Union Home Minister AmitShah Bhubabeswar attend 24th Eastern Zonal Council Lok Seva Bhavan,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,New Delhi. Bhubaneswar.,
+1233274496162975745,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,United States,
+1233274492685672448,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274492371206144,"RT @srivatsayb: @RahulGandhi Bureaucracy, Media or leaders in BJP don't speak against Mo-Sha bcos they know the consequences.
+
+A Brief Hist…",RT srivatsayb RahulGandhi Bureaucracy Media leaders BJP n't speak Mo-Sha bcos know consequences A Brief Hist,"Sentiment(polarity=0.0, subjectivity=0.3333333333333333)",0.0,0.3333333333333333,en,India,
+1233274491255521282,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Bombay, India. ",
+1233274490911588352,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,,
+1233274488029999105,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,,
+1233274486448906240,"RT @kapsology: So the assumptions are true.
+
+Sanghi goons from Western UP are sent to Delhi for spreading riots and killing Delhi people fo…",RT kapsology So assumptions true Sanghi goons Western UP sent Delhi spreading riots killing Delhi people fo,"Sentiment(polarity=0.175, subjectivity=0.325)",0.175,0.325,en,"Nagpur, India",
+1233274484519403520,"RT @RaisinaSeries: He is not BJP’s Sardar Patel, he is BJP’s Shivraj Patil...",RT RaisinaSeries He BJP Sardar Patel BJP Shivraj Patil ...,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Dubai, United Arab Emirates",
+1233274482602590208,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,India,
+1233274482304831488,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,,
+1233274482061606912,"@ChowkidarLaxmi @kushal_mehra @BJP4India @AmitShah @narendramodi Plz elaborate the non action by @DelhiPolice, whic… https://t.co/IhkLDxsYxq",ChowkidarLaxmi kushal_mehra BJP4India AmitShah narendramodi Plz elaborate non action DelhiPolice whic,"Sentiment(polarity=0.3, subjectivity=0.55)",0.3,0.55,en,India,
+1233274480622858241,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,palangkaraya,
+1233274477125013505,RT @TheChetak: This is current status of BJP. RSS is an academic org not professional political org. Once NaMo exit office we may land up i…,RT TheChetak This current status BJP RSS academic org professional political org Once NaMo exit office may land,"Sentiment(polarity=0.025, subjectivity=0.15)",0.025,0.15,en,"New Delhi, India",
+1233274475963088896,"@sambitswaraj Sir ji, News India, TV18 gruop, NDTV and ABP has started selective reporting to show identified curlp… https://t.co/imtGMNYTT9",sambitswaraj Sir ji News India TV18 gruop NDTV ABP started selective reporting show identified curlp,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274474318794752,"RT @AudaciousQuest: Chronology:
+
+People made sure that BJP couldn't enter Delhi.
+
+Kejriwal made sure that BJP n Delhi Police get a free han…",RT AudaciousQuest Chronology People made sure BJP could n't enter Delhi Kejriwal made sure BJP n Delhi Police get free han,"Sentiment(polarity=0.4666666666666666, subjectivity=0.8592592592592592)",0.4666666666666666,0.8592592592592592,en,"Mumbai, India",
+1233274473362575360,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,,
+1233274469378121729,"RT @SidrahDP: Translation: Anything against the dictats and beliefs of the BJP is hate speech.
+
+Our justice system is now catering to cripp…",RT SidrahDP Translation Anything dictats beliefs BJP hate speech Our justice system catering cripp,"Sentiment(polarity=-0.8, subjectivity=0.9)",-0.8,0.9,en,"Karnataka, India",
+1233274468153380867,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274461908062208,RT @sonaliranade: Ability to organise a murderous riot and get away with it is a key skill needed by any BJP Karyakarta if he has an eye on…,RT sonaliranade Ability organise murderous riot get away key skill needed BJP Karyakarta eye,"Sentiment(polarity=0.0, subjectivity=1.0)",0.0,1.0,en,,
+1233274461044006912,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,,
+1233274459844435968,"@TOIIndiaNews @RaisinaSeries Are delhi ne haraya hain, badala to lena hi tha. I am thinking if bjp lost up , wht would happen there. Scarry",TOIIndiaNews RaisinaSeries Are delhi ne haraya hain badala lena hi tha I thinking bjp lost wht would happen Scarry,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Beautiful place on 🌍 is India,
+1233274458904940544,"RT @SaketGokhale: I am NOT a fan of Tahir Hussain’s party AAP. 
+
+I, however, also know that a BJP mob will see him as a Muslim first than a…",RT SaketGokhale I NOT fan Tahir Hussain party AAP I however also know BJP mob see Muslim first,"Sentiment(polarity=0.25, subjectivity=0.3333333333333333)",0.25,0.3333333333333333,en,UAE ,
+1233274454978908160,"RT @TheChetak: At last BJP got one leader in Delhi 
+
+Any guess guys??",RT TheChetak At last BJP got one leader Delhi Any guess guys,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,en,,
+1233274454303629312,"RT @PeriyarPeranDaa: @TimesNow @Star1eleven1 Kabil Mishra can not get arrest - Delhi Police
+
+Pulwama Attacker Get Bail - NIA
+
+MURALIDHAR JU…",RT PeriyarPeranDaa TimesNow Star1eleven1 Kabil Mishra get arrest Delhi Police Pulwama Attacker Get Bail NIA MURALIDHAR JU,"Sentiment(polarity=-0.05, subjectivity=0.0)",-0.05,0.0,en,,
+1233274452680609792,RT @ethicalsid: *BJP Exposed on #DelhiRiots2020 * https://t.co/erF52DCcR4,RT ethicalsid *BJP Exposed DelhiRiots2020,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, Maharashtra",
+1233274451741040641,RT @steve_hanke: 38 people have died in the #DelhiRiots. @narendramodi is only interested in deepening religious divides with his #Hindutva…,RT steve_hanke 38 people died DelhiRiots narendramodi interested deepening religious divides Hindutva,"Sentiment(polarity=0.125, subjectivity=0.375)",0.125,0.375,en,"Lahore, Pakistan",
+1233274447668240384,RT @i_theindian: BJP IT Cell has activated hundreds of fake accounts. These accounts are non-stop posting fake news and adverse comments on…,RT i_theindian BJP IT Cell activated hundreds fake accounts These accounts non-stop posting fake news adverse comments,"Sentiment(polarity=-0.5, subjectivity=1.0)",-0.5,1.0,en,"Navi Mumbai, India",
+1233274445881585664,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,"Anandpuri, Patna",
+1233274445097136128,@TimesNow @tahirhussainaap BJP k govt me aane se bhi kya fark aa gaya,TimesNow tahirhussainaap BJP k govt aane se bhi kya fark aa gaya,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,नशे मे 🤓,
+1233274443801088001,"RT @BangaloreMirror: A few Bengaluru students protest in front of Raj Bhavan -against BJP, RSS and Delhi Police.
+
+@BJP4India @RSSorg @Delhi…",RT BangaloreMirror A Bengaluru students protest front Raj Bhavan -against BJP RSS Delhi Police BJP4India RSSorg Delhi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Bengaluru, India",
+1233274443553632256,RT @Nehr_who: Yesterday High Court asked Delhi Police to register FIR against 4 BJP Leaders name for giving Hate Speech and inciting the mo…,RT Nehr_who Yesterday High Court asked Delhi Police register FIR 4 BJP Leaders name giving Hate Speech inciting mo,"Sentiment(polarity=-0.32, subjectivity=0.72)",-0.32,0.72,en,,
+1233274442672771073,"RT @AudaciousQuest: Chronology:
+
+People made sure that BJP couldn't enter Delhi.
+
+Kejriwal made sure that BJP n Delhi Police get a free han…",RT AudaciousQuest Chronology People made sure BJP could n't enter Delhi Kejriwal made sure BJP n Delhi Police get free han,"Sentiment(polarity=0.4666666666666666, subjectivity=0.8592592592592592)",0.4666666666666666,0.8592592592592592,en,"India, Kolkata",
+1233274440718462977,@AmitShah @narendramodi @ahmedabadmirror @vijayrupanibjp Beti bachao Beti Bachao...... Let see what BJP is doing in… https://t.co/pNvfwuxhaI,AmitShah narendramodi ahmedabadmirror vijayrupanibjp Beti bachao Beti Bachao ... ... Let see BJP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Ahmadabad City, India",
+1233274434124951552,RT @OpIndia_com: Billionaire Democrat George Soros in January announced that he will commit a billion dollars towards 'fighting' nationalis…,RT OpIndia_com Billionaire Democrat George Soros January announced commit billion dollars towards 'fighting nationalis,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274430677061634,"RT @NH_India: #Congress has once again attacked the Centre on the issue of transfer of the #DelhiHighCourt Judge, Justice #SMuralidhar, who…",RT NH_India Congress attacked Centre issue transfer DelhiHighCourt Judge Justice SMuralidhar,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"New Delhi, INDIA",
+1233274429334941698,"RT @NH_India: In a huge embarrassment to the opposition #BharatiyaJanataParty, it's former #MLA from #MiraRoad #NarendraMehta was booked on…",RT NH_India In huge embarrassment opposition BharatiyaJanataParty 's former MLA MiraRoad NarendraMehta booked,"Sentiment(polarity=0.20000000000000004, subjectivity=0.45)",0.20000000000000004,0.45,en,....around,
+1233274428202668032,@narendramodi Sir on this auspicious day will bjp consider increasing budget for education and research,narendramodi Sir auspicious day bjp consider increasing budget education research,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,ranchi,
+1233274420661084161,"RT @TarekFatah: George Soros the billionaire who singlehandedly destroyed the economies of many countries in the FarEast, is now meddling i…",RT TarekFatah George Soros billionaire singlehandedly destroyed economies many countries FarEast meddling,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"New Delhi, India",
+1233274420489224192,"RT @RaisinaSeries: He is not BJP’s Sardar Patel, he is BJP’s Shivraj Patil...",RT RaisinaSeries He BJP Sardar Patel BJP Shivraj Patil ...,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"18.486022,73.888571",
+1233274417586810880,RT @ttindia: BJP organisation secretary B.L. Santosh warned Bernie Sanders that he was compelling India to take sides in US' upcoming presi…,RT ttindia BJP organisation secretary B.L Santosh warned Bernie Sanders compelling India take sides US upcoming presi,"Sentiment(polarity=0.3, subjectivity=0.6)",0.3,0.6,en,New Delhi,
+1233274414122270725,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Paris, France",
+1233274409558757378,Spoke to someone I know from Mumbai. I was shocked to know they actually think AAP has a hand in propagating these… https://t.co/bnYZ0bnqTk,Spoke someone I know Mumbai I shocked know actually think AAP hand propagating,"Sentiment(polarity=-0.35, subjectivity=0.45)",-0.35,0.45,en,,
+1233274407503749120,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274403133231107,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,New Delhi,
+1233274402751401986,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274398800568321,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,الہند,
+1233274397466611712,"RT @KoomarShah: The Anna movement happened when Gadkari was BJP Prez
+
+BJP leaders would regularly be on stage along with Anna
+
+They used An…",RT KoomarShah The Anna movement happened Gadkari BJP Prez BJP leaders would regularly stage along Anna They used An,"Sentiment(polarity=0.0, subjectivity=0.07692307692307693)",0.0,0.07692307692307693,en,Bangalore,
+1233274396921430016,RT @lilmum55: @AshramBlr @bengaluru @HMOKarnataka @SureshChavhanke @rajeevgowda @krishnabgowda @drashwathcn @BBMP_MAYOR @BBMPSWMSplComm @bb…,RT lilmum55 AshramBlr bengaluru HMOKarnataka SureshChavhanke rajeevgowda krishnabgowda drashwathcn BBMP_MAYOR BBMPSWMSplComm bb,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274395654623234,"RT @vinayaravind: It's astonishing how skilful the BJP propaganda machine has been, beautifully exploiting the liberals' thirst for both-si…",RT vinayaravind It 's astonishing skilful BJP propaganda machine beautifully exploiting liberals thirst both-si,"Sentiment(polarity=0.4166666666666667, subjectivity=0.7000000000000001)",0.4166666666666667,0.7000000000000001,en,,
+1233274383147266048,"@AmitShah @smritiirani @nsitharaman @rajnathsingh Shame on you 
+@AmitShah
+ for not acting on the terror against Hin… https://t.co/7CrWcBIADT",AmitShah smritiirani nsitharaman rajnathsingh Shame AmitShah acting terror Hin,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Surat, India",
+1233274382924931075,RT @AritraB32173626: @SwethaAjeeth @BJP4India @Ramesh_BJP @vanitajain21 @Sowmiya07939778 @Ramesh57574373 @RameshPShah5 @BamKumarBJP @Apurvg…,RT AritraB32173626 SwethaAjeeth BJP4India Ramesh_BJP vanitajain21 Sowmiya07939778 Ramesh57574373 RameshPShah5 BamKumarBJP Apurvg,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274380404297729,"RT @PoulomiMSaha: @DelhiPolice didn’t take even an MP’s call seriously. 
+
+A BJP ally party MP, Naresh Gujral, made a call to help some Musl…",RT PoulomiMSaha DelhiPolice take even MP call seriously A BJP ally party MP Naresh Gujral made call help Musl,"Sentiment(polarity=-0.3333333333333333, subjectivity=0.6666666666666666)",-0.3333333333333333,0.6666666666666666,en,Humanity ,
+1233274375429853184,RT @MahuaMoitra: So FIRs against BJP leaders whose hate speech &amp; venom have resulted directly or indirectly in death of 34 people can be lo…,RT MahuaMoitra So FIRs BJP leaders whose hate speech amp venom resulted directly indirectly death 34 people lo,"Sentiment(polarity=-0.35000000000000003, subjectivity=0.65)",-0.35000000000000003,0.65,en,,
+1233274370866343936,RT @gps35: What is lacking in BJP. * cadre basis* Message of more than 700 schemes not reaching the beneficiaries * Modi has put a stamp on…,RT gps35 What lacking BJP cadre basis* Message 700 schemes reaching beneficiaries Modi put stamp,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Tamil Nadu, India",
+1233274370472083457,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,,
+1233274367162888192,"RT @AudaciousQuest: AAP in credibility crisis after big win.
+
+""Kejriwal’s strategy of not reacting proactively when the riots began would n…",RT AudaciousQuest AAP credibility crisis big win `` Kejriwal strategy reacting proactively riots began would n,"Sentiment(polarity=0.4, subjectivity=0.25)",0.4,0.25,en,,
+1233274360506380288,"RT @TarekFatah: George Soros the billionaire who singlehandedly destroyed the economies of many countries in the FarEast, is now meddling i…",RT TarekFatah George Soros billionaire singlehandedly destroyed economies many countries FarEast meddling,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,India,
+1233274355645214721,"RT @hallagullaboy: Why delhi riots happened in North-East delhi only where as there were so many other muslims areas like Chandni Chowk, ok…",RT hallagullaboy Why delhi riots happened North-East delhi many muslims areas like Chandni Chowk ok,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,,
+1233274355565465602,"RT @steve_hanke: If you thought that #BJP's #PoliceState couldn't grow any bigger, think again. Millions may become stateless due to #CAA.…",RT steve_hanke If thought BJP 's PoliceState could n't grow bigger think Millions may become stateless due CAA,"Sentiment(polarity=-0.0625, subjectivity=0.4375)",-0.0625,0.4375,en,,
+1233274355104145408,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,unknown,
+1233274353997033472,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274350595231745,How BJP almost entered US polls https://t.co/mK3GoMZmyq,How BJP almost entered US polls,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Kolkata, India",
+1233274348842016768,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,,
+1233274335495782401,RT @omthanvi: AAP’s Credibility Crisis: An AAP office-bearer told this paper: “We have lost trust. Many see us as ineffective at best and o…,RT omthanvi AAP Credibility Crisis An AAP office-bearer told paper We lost trust Many see us ineffective best,"Sentiment(polarity=0.75, subjectivity=0.4)",0.75,0.4,en,"Allahabad, India",
+1233274334145400832,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274333096579073,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Ghaziabad, India",
+1233274332937216000,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,,
+1233274330806616068,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Dubai, United Arab Emirates",
+1233274329330323458,"@rajnathsingh Sirji, I am a Modi BJP bhakt, and a proud Hindu, I believe that only the BJP will spearhead our quest… https://t.co/gjkdJMBNDP",rajnathsingh Sirji I Modi BJP bhakt proud Hindu I believe BJP spearhead quest,"Sentiment(polarity=0.8, subjectivity=1.0)",0.8,1.0,en,"Mumbai, India",
+1233274326939586561,"RT @AbhishBanerj: At this moment, BJP supporters should rally around Amit Shah. 
+
+Global liberal ecosystem is after him just bec he dared…",RT AbhishBanerj At moment BJP supporters rally around Amit Shah Global liberal ecosystem bec dared,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Kanpur,
+1233274323600728065,RT @JaiveerShergill: Chief Justice of India+CJ Delhi High Court must intervene to stop arbitrary &amp; vindictive transfer of #JusticeMuralidha…,RT JaiveerShergill Chief Justice India+CJ Delhi High Court must intervene stop arbitrary amp vindictive transfer JusticeMuralidha,"Sentiment(polarity=0.03, subjectivity=0.57)",0.03,0.57,en,india,
+1233274323466641408,"RT @ndtv: ""Strict action against BJP leaders guilty of hate speech"": Chirag Paswan to NDTV https://t.co/wOpkAD7YBX https://t.co/wRJR8vFQUq",RT ndtv `` Strict action BJP leaders guilty hate speech '' Chirag Paswan NDTV,"Sentiment(polarity=-0.4000000000000001, subjectivity=0.6666666666666666)",-0.4000000000000001,0.6666666666666666,en,"New Delhi, India",
+1233274323198103554,"RT @SaketGokhale: I am NOT a fan of Tahir Hussain’s party AAP. 
+
+I, however, also know that a BJP mob will see him as a Muslim first than a…",RT SaketGokhale I NOT fan Tahir Hussain party AAP I however also know BJP mob see Muslim first,"Sentiment(polarity=0.25, subjectivity=0.3333333333333333)",0.25,0.3333333333333333,en,,
+1233274308178264064,"RT @RaisinaSeries: He is not BJP’s Sardar Patel, he is BJP’s Shivraj Patil...",RT RaisinaSeries He BJP Sardar Patel BJP Shivraj Patil ...,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274303791214592,Sycophant of BJP https://t.co/f6eMgb9viQ,Sycophant BJP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,V.I.P.Road Khanoo Gaon Bhopal.,
+1233274301840625665,"RT @Parv05: While I was covering a peace March today in Jantar Mantar, BJP representative Kapil Mishra too reach the spot and I did my job…",RT Parv05 While I covering peace March today Jantar Mantar BJP representative Kapil Mishra reach spot I job,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Kolkata, India",
+1233274301794734080,"RT @SidrahDP: Translation: Anything against the dictats and beliefs of the BJP is hate speech.
+
+Our justice system is now catering to cripp…",RT SidrahDP Translation Anything dictats beliefs BJP hate speech Our justice system catering cripp,"Sentiment(polarity=-0.8, subjectivity=0.9)",-0.8,0.9,en,,
+1233274301597380608,This is getting a bit too much. Delhi High Court has been fully compromised. Now they ask for FIRs against everyone… https://t.co/3bLLiCNi88,This getting bit much Delhi High Court fully compromised Now ask FIRs everyone,"Sentiment(polarity=0.18, subjectivity=0.37)",0.18,0.37,en,,
+1233274294794362881,"RT @AudaciousQuest: Chronology:
+
+People made sure that BJP couldn't enter Delhi.
+
+Kejriwal made sure that BJP n Delhi Police get a free han…",RT AudaciousQuest Chronology People made sure BJP could n't enter Delhi Kejriwal made sure BJP n Delhi Police get free han,"Sentiment(polarity=0.4666666666666666, subjectivity=0.8592592592592592)",0.4666666666666666,0.8592592592592592,en,,
+1233274292533526528,"RT @SaketGokhale: SG Tushar Mehta says in Delhi HC that “it’s not a conducive time to register FIRs against BJP leaders”. 
+
+The only thing…",RT SaketGokhale SG Tushar Mehta says Delhi HC conducive time register FIRs BJP leaders The thing,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Aaj me upar, aasman neeche",
+1233274292416270337,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,,
+1233274288104333313,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Omnipresent,
+1233274286552432640,"RT @hunmid12: He clearly mentioned as home ministry failure , the whole context is about BJP
+It just requires common sense to understand th…",RT hunmid12 He clearly mentioned home ministry failure whole context BJP It requires common sense understand th,"Sentiment(polarity=-0.07916666666666666, subjectivity=0.39583333333333337)",-0.07916666666666666,0.39583333333333337,en,,
+1233274286267219970,RT @TheJaggi: Sir this is not about Amit Shah or BJP. It is about Defending Dharma in the only country Hindus can call their own. And Dharm…,RT TheJaggi Sir Amit Shah BJP It Defending Dharma country Hindus call And Dharm,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Bangluru,
+1233274285747265537,I was hardcore Modi supporter and still is BJP supporter but I simply refused to follow CULT... yes its cult now wh… https://t.co/VFUSZcy3sj,I hardcore Modi supporter still BJP supporter I simply refused follow CULT ... yes cult wh,"Sentiment(polarity=0.0, subjectivity=0.35714285714285715)",0.0,0.35714285714285715,en,Jodhpur/Mumbai,
+1233274285613092865,"RT @CNNnews18: #NewsAlert | AAP suspends Tahir Hussain’s membership.
+
+Police books Hussain for murder.
+
+BJP demands Hussain's arrest for mu…",RT CNNnews18 NewsAlert AAP suspends Tahir Hussain membership Police books Hussain murder BJP demands Hussain 's arrest mu,"Sentiment(polarity=-0.05, subjectivity=0.0)",-0.05,0.0,en,"New Delhi, India",
+1233274284115550208,"This thread, all the things high and mighty about the BJP/Shah govt! They know it will all come back to them, soone… https://t.co/C2fHkEOwQf",This thread things high mighty BJP/Shah govt They know come back soone,"Sentiment(polarity=0.18666666666666668, subjectivity=0.48)",0.18666666666666668,0.48,en,"Bengaluru, India",
+1233274281729122304,"RT @ShitSaniyaSays: Idk who needs to hear this but the BJP doesn't love this country, it's army, the Hindus or even the cows. It really jus…",RT ShitSaniyaSays Idk needs hear BJP n't love country 's army Hindus even cows It really jus,"Sentiment(polarity=0.35, subjectivity=0.4)",0.35,0.4,en,Anxiety Hauptbahnhof ,
+1233274277572599809,"Double punishment means
+#manojtiwari hits out at #AAP’s Tahir Hussain and his bosses.
+
+Shamelessly BJP/AAP again do… https://t.co/1zDwiOuz7R",Double punishment means manojtiwari hits AAP Tahir Hussain bosses Shamelessly BJP/AAP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274276188278784,"RT @TarekFatah: George Soros the billionaire who singlehandedly destroyed the economies of many countries in the FarEast, is now meddling i…",RT TarekFatah George Soros billionaire singlehandedly destroyed economies many countries FarEast meddling,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,,
+1233274275752226816,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233274273587965953,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Lahore, Pakistan",
+1233274267577593857,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,Mumbai Chalisgaon ,
+1233274266709159936,RT @IndiaToday: Shiv Sena questions ally Congress; says Opposition has failed to question BJP. India Today's @mustafashk joins in with more…,RT IndiaToday Shiv Sena questions ally Congress says Opposition failed question BJP India Today 's mustafashk joins,"Sentiment(polarity=-0.5, subjectivity=0.3)",-0.5,0.3,en,"Hyderabad Deccan, India",
+1233274264889020416,"RT @svaradarajan: In this short video, I explain why the BJP chose to allow Delhi to burn now, despite Trump’s visit | https://t.co/8e5Iqvn…",RT svaradarajan In short video I explain BJP chose allow Delhi burn despite Trump visit,"Sentiment(polarity=0.0, subjectivity=0.3)",0.0,0.3,en,,
+1233274263198527488,"RT @mm_0774: * NEHRU was envious of Ambedkar, Savarkar': BJP MP Dr Subramanian Swamy*
+@Swamy39 ji 
+@jagdishshetty ji 
+ Republic World - htt…",RT mm_0774 NEHRU envious Ambedkar Savarkar BJP MP Dr Subramanian Swamy* Swamy39 ji jagdishshetty ji Republic World htt,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274259734007808,"RT @svaradarajan: In this short video, I explain why the BJP chose to allow Delhi to burn now, despite Trump’s visit | https://t.co/8e5Iqvn…",RT svaradarajan In short video I explain BJP chose allow Delhi burn despite Trump visit,"Sentiment(polarity=0.0, subjectivity=0.3)",0.0,0.3,en,India,
+1233274255829135362,"RT @CTRavi_BJP: ✓ Akbaruddin Owaisi
+✓ Sharjeel Imam
+✓ Amanatullah Khan
+✓ Waris Pathan
+✓ Urban Naxals
+
+made provocative speeches during #CAA…",RT CTRavi_BJP Akbaruddin Owaisi Sharjeel Imam Amanatullah Khan Waris Pathan Urban Naxals made provocative speeches CAA,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,mumbai,
+1233274254164144128,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,,
+1233274248539537408,"RT @rituparnasarm10: Formation of grand alliance under AIUDF against Good Governance BJP already looming in Assam 4 Assembly election2021,G…",RT rituparnasarm10 Formation grand alliance AIUDF Good Governance BJP already looming Assam 4 Assembly election2021 G,"Sentiment(polarity=0.6, subjectivity=0.8)",0.6,0.8,en,"Gondia, India",
+1233274247147139074,"RT @comedibanda: Justice Murlidhar : Why govt is not taking action against  BJP MLAs  who are giving hate speech 
+
+Modi ji : https://t.co/s…",RT comedibanda Justice Murlidhar Why govt taking action BJP MLAs giving hate speech Modi ji,"Sentiment(polarity=-0.35000000000000003, subjectivity=0.5)",-0.35000000000000003,0.5,en,india,
+1233274240444588034,"RT @hallagullaboy: Why delhi riots happened in North-East delhi only where as there were so many other muslims areas like Chandni Chowk, ok…",RT hallagullaboy Why delhi riots happened North-East delhi many muslims areas like Chandni Chowk ok,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"Malappuram,Kerala, India",
+1233274238619934722,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Ravishing_Zaara's Heart,
+1233274238364213248,"RT @ArijitmINC: BJP planning for Shaheen Bagh on 1st of March,2020. Got this video on social media.If that is true then it will be terrible…","RT ArijitmINC BJP planning Shaheen Bagh 1st March,2020 Got video social media.If true terrible","Sentiment(polarity=-0.20555555555555557, subjectivity=0.5722222222222223)",-0.20555555555555557,0.5722222222222223,en,India,
+1233274235080126465,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Coimbatore, India",
+1233274232945070080,@Munnaaaaahhhhh @saket71 @IAmSudhirMishra @AmitShah @BJP4India I think BJP is in collusion with AAP. @krishna277711,Munnaaaaahhhhh saket71 IAmSudhirMishra AmitShah BJP4India I think BJP collusion AAP krishna277711,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Hayward, CA",
+1233274232441835522,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,"Mumbai, New Delhi and Kanpur",
+1233274232324468736,"RT @imMAK02: BJP Lawmaker T Raja Singh spewed venom against Muslims. 
+
+He says Modi and Amit Shah will skin Muslims, he called Muslims trai…",RT imMAK02 BJP Lawmaker T Raja Singh spewed venom Muslims He says Modi Amit Shah skin Muslims called Muslims trai,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en, The Middle Ages,
+1233274229400854529,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Jakarta Capital Region,
+1233274228746735616,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,,
+1233274216922992640,"RT @hunmid12: He clearly mentioned as home ministry failure , the whole context is about BJP
+It just requires common sense to understand th…",RT hunmid12 He clearly mentioned home ministry failure whole context BJP It requires common sense understand th,"Sentiment(polarity=-0.07916666666666666, subjectivity=0.39583333333333337)",-0.07916666666666666,0.39583333333333337,en,"Jaffna, Sri Lanka",
+1233274216407019520,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,"Bengaluru, India",
+1233274210602115072,RT @Divyamshu_2010: @DetheEshaSen @0mNam0 @vanitajain21 @KapilMishra_IND @Ramesh_BJP @GauravModified @ParasKGhelani @nrajabpcl @VarierSangi…,RT Divyamshu_2010 DetheEshaSen 0mNam0 vanitajain21 KapilMishra_IND Ramesh_BJP GauravModified ParasKGhelani nrajabpcl VarierSangi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Vadodara Gujarat ,
+1233274209343688705,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,New Delhi,
+1233274207900925952,"@siddarthshah41 @davidfrawleyved @BernieSanders If bjp was there the exodus will be vice versa.
+Kashmiri muslim whi… https://t.co/rUOYFebA5R",siddarthshah41 davidfrawleyved BernieSanders If bjp exodus vice versa Kashmiri muslim whi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274206323793921,"RT @ShitSaniyaSays: Idk who needs to hear this but the BJP doesn't love this country, it's army, the Hindus or even the cows. It really jus…",RT ShitSaniyaSays Idk needs hear BJP n't love country 's army Hindus even cows It really jus,"Sentiment(polarity=0.35, subjectivity=0.4)",0.35,0.4,en,"KL, Malaysia",
+1233274203635355653,@Adil90025586 @RanaAyyub Correct your facts.. Muslim section is getting carried away by Hindutva goons actions.. th… https://t.co/hu9DuF12pU,Adil90025586 RanaAyyub Correct facts.. Muslim section getting carried away Hindutva goons actions.. th,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274202775588864,RT @sagarikaghose: “ There is no investigation required for BJP leader Kapil Mishra. There is clear evidence of his hate speech and violenc…,RT sagarikaghose There investigation required BJP leader Kapil Mishra There clear evidence hate speech violenc,"Sentiment(polarity=-0.35000000000000003, subjectivity=0.6416666666666666)",-0.35000000000000003,0.6416666666666666,en,,
+1233274202603450368,"RT @amitksh08: Dange BJP ne karwaye, they were implementing Gujarat model",RT amitksh08 Dange BJP ne karwaye implementing Gujarat model,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274199432519680,"RT @sopranoxs: BJP instigated riots, orchestrated them, defended it in the court, and transferred with the judge with immediate effect who…",RT sopranoxs BJP instigated riots orchestrated defended court transferred judge immediate effect,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274192918790144,"RT @AudaciousQuest: Chronology:
+
+People made sure that BJP couldn't enter Delhi.
+
+Kejriwal made sure that BJP n Delhi Police get a free han…",RT AudaciousQuest Chronology People made sure BJP could n't enter Delhi Kejriwal made sure BJP n Delhi Police get free han,"Sentiment(polarity=0.4666666666666666, subjectivity=0.8592592592592592)",0.4666666666666666,0.8592592592592592,en,,
+1233274188150005760,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274184702275584,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Algiers      ,
+1233274184140115969,"RT @ANI: Kapil Mishra, BJP: No question is being asked to people who are talking about dividing country or those on whose terrace petrol bo…",RT ANI Kapil Mishra BJP No question asked people talking dividing country whose terrace petrol bo,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274168998813698,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,mumbai,
+1233274165488226304,@anuragteddy SC is Official HQ of BJP...,anuragteddy SC Official HQ BJP ...,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Your heart...,
+1233274164750028800,RT @EpicRoflDon: .@ArvindKejriwal Please move beyond Delhi.. BJP wants to make you look weak &amp; discredit you so that AAP can be stopped in…,RT EpicRoflDon ArvindKejriwal Please move beyond Delhi.. BJP wants make look weak amp discredit AAP stopped,"Sentiment(polarity=-0.0875, subjectivity=0.3625)",-0.0875,0.3625,en,Bachhrawan Raebareli,
+1233274163269394432,RT @Samanth_S: The BJP seems to excel at creating conditions in which violence can unfold. The emblematic photo of this violence is of a Mu…,RT Samanth_S The BJP seems excel creating conditions violence unfold The emblematic photo violence Mu,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Sri Lanka,
+1233274160576704512,RT @steve_hanke: 38 people have died in the #DelhiRiots. @narendramodi is only interested in deepening religious divides with his #Hindutva…,RT steve_hanke 38 people died DelhiRiots narendramodi interested deepening religious divides Hindutva,"Sentiment(polarity=0.125, subjectivity=0.375)",0.125,0.375,en,منڈی بہاؤ الدین/ دمام ,
+1233274158693453825,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,🇬🇧 🇱🇰 🇦🇪,
+1233274157908934659,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,,
+1233274157145579520,"RT @IndurChhugani: Do you agree 
+He's done no wrong ?
+
+""I have received calls by many to kill me. Many people including politicians and jou…",RT IndurChhugani Do agree He 's done wrong `` I received calls many kill Many people including politicians jou,"Sentiment(polarity=0.16666666666666666, subjectivity=0.6333333333333333)",0.16666666666666666,0.6333333333333333,en,"Navi Mumbai, India",
+1233274155996516353,"RT @srivatsayb: This is the man from a viral video who was rioting shouting 'Jai Shri Ram'
+
+He sits here like a wimp after Muslims caught &amp;…",RT srivatsayb This man viral video rioting shouting 'Jai Shri Ram' He sits like wimp Muslims caught amp,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274151751823360,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Jhang,
+1233274151625867264,"RT @infestedbrain: @RK_Insight @VasanMSV @bainjal @RanaAyyub @mkatju @ravishndtv @t_d_h_nair @bainjal @rohini_sgh 
+@pbhushan1 @UNHumanRight…",RT infestedbrain RK_Insight VasanMSV bainjal RanaAyyub mkatju ravishndtv t_d_h_nair bainjal rohini_sgh pbhushan1 UNHumanRight,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Heart's Content, Newfoundland ",
+1233274149860233216,"RT @handle_anonymus: Be assured, if state under BJP could bring Azam Khan to heel, this one is less than a fly on wall.
+
+Azam Khan controll…",RT handle_anonymus Be assured state BJP could bring Azam Khan heel one less fly wall Azam Khan controll,"Sentiment(polarity=0.3166666666666667, subjectivity=0.48333333333333334)",0.3166666666666667,0.48333333333333334,en,India,
+1233274149100875776,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233274146999717889,"RT @PoulomiMSaha: @DelhiPolice didn’t take even an MP’s call seriously. 
+
+A BJP ally party MP, Naresh Gujral, made a call to help some Musl…",RT PoulomiMSaha DelhiPolice take even MP call seriously A BJP ally party MP Naresh Gujral made call help Musl,"Sentiment(polarity=-0.3333333333333333, subjectivity=0.6666666666666666)",-0.3333333333333333,0.6666666666666666,en,india,
+1233274142704590848,"RT @TarekFatah: George Soros the billionaire who singlehandedly destroyed the economies of many countries in the FarEast, is now meddling i…",RT TarekFatah George Soros billionaire singlehandedly destroyed economies many countries FarEast meddling,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"Bengaluru South, India",
+1233274141895266304,BJP IT Cell has activated hundreds of fake accounts. These accounts are non-stop posting fake news and adverse comm… https://t.co/DzErNcQppC,BJP IT Cell activated hundreds fake accounts These accounts non-stop posting fake news adverse comm,"Sentiment(polarity=-0.5, subjectivity=1.0)",-0.5,1.0,en,"Mumbai, Maharashtra","[[72.74484, 18.845343], [73.003648, 18.845343], [73.003648, 19.502937], [72.74484, 19.502937]]"
+1233274139957293057,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,"Faridabad, India",
+1233274138153717760,"RT @Vidyaspeaks: #JusticeMuralidhar had Slammed Delhi Police &amp; had Summoned Delhi Police Commissioner, He asked police to register FIR agai…",RT Vidyaspeaks JusticeMuralidhar Slammed Delhi Police amp Summoned Delhi Police Commissioner He asked police register FIR agai,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Hyderabad, Andhra Pradesh",
+1233274134731395072,"RT @scribe_prashant: Riots happened. People died. Mayhem left behind. 
+
+Questions, allegations raised on two netas: #TahirHussain of AAP an…",RT scribe_prashant Riots happened People died Mayhem left behind Questions allegations raised two netas TahirHussain AAP,"Sentiment(polarity=-0.2, subjectivity=0.35)",-0.2,0.35,en,"Begusarai,bihar",
+1233274134110466048,"RT @Parv05: While I was covering a peace March today in Jantar Mantar, BJP representative Kapil Mishra too reach the spot and I did my job…",RT Parv05 While I covering peace March today Jantar Mantar BJP representative Kapil Mishra reach spot I job,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274128284647425,"RT @Parv05: While I was covering a peace March today in Jantar Mantar, BJP representative Kapil Mishra too reach the spot and I did my job…",RT Parv05 While I covering peace March today Jantar Mantar BJP representative Kapil Mishra reach spot I job,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Mumbai,
+1233274126648766464,"RT @ShitSaniyaSays: Idk who needs to hear this but the BJP doesn't love this country, it's army, the Hindus or even the cows. It really jus…",RT ShitSaniyaSays Idk needs hear BJP n't love country 's army Hindus even cows It really jus,"Sentiment(polarity=0.35, subjectivity=0.4)",0.35,0.4,en,India,
+1233274125029969920,"RT @knightwatchman_: BJP leader BL Santhosh threatened Bernie Sanders that he is compelling them(BJP) to interfere in the US elections.
+
+He…",RT knightwatchman_ BJP leader BL Santhosh threatened Bernie Sanders compelling BJP interfere US elections He,"Sentiment(polarity=0.3, subjectivity=0.6)",0.3,0.6,en,,
+1233274121305370624,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,India,
+1233274117375307776,@sardesairajdeep @IndiaToday People at his terrace home didn't go to kill anyone. It was the hindutva bhakts who ca… https://t.co/J0Fw3QQGLi,sardesairajdeep IndiaToday People terrace home n't go kill anyone It hindutva bhakts ca,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274116666322945,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,"Hyderabad, India",
+1233274100984033280,#BJP #Karnataka thanks Prime Minister @PMOIndia @narendramodi for notifying #Mhadei award https://t.co/VGdL00W0Rk,BJP Karnataka thanks Prime Minister PMOIndia narendramodi notifying Mhadei award,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,en,,
+1233274100556058625,"RT @hunmid12: He clearly mentioned as home ministry failure , the whole context is about BJP
+It just requires common sense to understand th…",RT hunmid12 He clearly mentioned home ministry failure whole context BJP It requires common sense understand th,"Sentiment(polarity=-0.07916666666666666, subjectivity=0.39583333333333337)",-0.07916666666666666,0.39583333333333337,en,,
+1233274093325160449,"RT @MdTariqueHasan1: I think NITISH kumar is somehow supporting RJD to... Let BJP out of BIHAR......
+
+See the sequences nowadays in bihar n…",RT MdTariqueHasan1 I think NITISH kumar somehow supporting RJD ... Let BJP BIHAR ... ... See sequences nowadays bihar n,"Sentiment(polarity=0.25, subjectivity=0.25)",0.25,0.25,en,,
+1233274092314398720,"RT @CworeRedux: BJP got a HC judge transferred overnight and had Solicitor General as personal lawyer to defend Kapil Mishra 
+
+AAP suspende…",RT CworeRedux BJP got HC judge transferred overnight Solicitor General personal lawyer defend Kapil Mishra AAP suspende,"Sentiment(polarity=0.02500000000000001, subjectivity=0.4)",0.02500000000000001,0.4,en,"Madurai South, India",
+1233274091957870593,RT @sagarikaghose: “ There is no investigation required for BJP leader Kapil Mishra. There is clear evidence of his hate speech and violenc…,RT sagarikaghose There investigation required BJP leader Kapil Mishra There clear evidence hate speech violenc,"Sentiment(polarity=-0.35000000000000003, subjectivity=0.6416666666666666)",-0.35000000000000003,0.6416666666666666,en,"Patna, India",
+1233274090271772672,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Ahmedabad,
+1233274088120029184,"RT @vinayaravind: It's astonishing how skilful the BJP propaganda machine has been, beautifully exploiting the liberals' thirst for both-si…",RT vinayaravind It 's astonishing skilful BJP propaganda machine beautifully exploiting liberals thirst both-si,"Sentiment(polarity=0.4166666666666667, subjectivity=0.7000000000000001)",0.4166666666666667,0.7000000000000001,en,,
+1233274087708950528,Amit shah will be in kolkata on 1st march. Go back amit shah chor @BJP4India @BJP4Bengal @AmitShah @narendramodi… https://t.co/WEtFjStjQ4,Amit shah kolkata 1st march Go back amit shah chor BJP4India BJP4Bengal AmitShah narendramodi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,kolkata,"[[88.094457, 22.269493], [88.610027, 22.269493], [88.610027, 22.955918], [88.094457, 22.955918]]"
+1233274080100585472,"RT @vijaita: Read this piece by Shishir Gupta of Hindustan Times----
+On Feb 23, Soon after pro-CAA rally was organised by BJP leader Kapil…",RT vijaita Read piece Shishir Gupta Hindustan Times -- -- On Feb 23 Soon pro-CAA rally organised BJP leader Kapil,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Bangalore ,
+1233274079764832256,"RT @sanjukta: I have not seen name list of the dead, pls share. Apart from that when BJP leaders were inciting riots by giving goli maro sl…",RT sanjukta I seen name list dead pls share Apart BJP leaders inciting riots giving goli maro sl,"Sentiment(polarity=-0.2, subjectivity=0.4)",-0.2,0.4,en,New Delhi,
+1233274072156471297,"RT @__R_a_j_: 6. Know your local Hindu leader, he could be from BJP, RSS, Bajarang Dal, VHP, Hindu Yuva Vahini etc. Make sure he is just on…",RT __R_a_j_ 6 Know local Hindu leader could BJP RSS Bajarang Dal VHP Hindu Yuva Vahini etc Make sure,"Sentiment(polarity=0.25, subjectivity=0.4444444444444444)",0.25,0.4444444444444444,en,,
+1233274070021525504,@Manoj0910 @TheJaggi Good point. They all send thier kids to missionary schools and talk about hindu culture here.… https://t.co/6rWoH5dxkL,Manoj0910 TheJaggi Good point They send thier kids missionary schools talk hindu culture,"Sentiment(polarity=0.7, subjectivity=0.6000000000000001)",0.7,0.6000000000000001,en,,
+1233274069497200646,RT @DOCTORATLARGE: The events of the last few days have absolutely proved that if this country which is infested with traitors and terroris…,RT DOCTORATLARGE The events last days absolutely proved country infested traitors terroris,"Sentiment(polarity=0.1, subjectivity=0.48333333333333334)",0.1,0.48333333333333334,en,Bhārata,
+1233274067953713152,RT @TheJaggi: Sir this is not about Amit Shah or BJP. It is about Defending Dharma in the only country Hindus can call their own. And Dharm…,RT TheJaggi Sir Amit Shah BJP It Defending Dharma country Hindus call And Dharm,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,@Blr,
+1233274065130946561,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274064497565696,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233274064065716224,@Dilsedesh @priyankagandhi Wait a few more days. A case of treason will be registered against the BJP for writing,Dilsedesh priyankagandhi Wait days A case treason registered BJP writing,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233274062580961280,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233274055962263552,"RT @PTI_News: No one is questioning those whose terrace are found stocked with petrol bombs, rocks, other weapons. Somebody who only reques…",RT PTI_News No one questioning whose terrace found stocked petrol bombs rocks weapons Somebody reques,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274055727304704,"@VishalDadlani BJP didn't have a CM candidate for Delhi Elections , 4 days back Kapil Mishra started  applying for… https://t.co/Iihm5Puevm",VishalDadlani BJP n't CM candidate Delhi Elections 4 days back Kapil Mishra started applying,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274054217543681,RT @EpicRoflDon: .@ArvindKejriwal Please move beyond Delhi.. BJP wants to make you look weak &amp; discredit you so that AAP can be stopped in…,RT EpicRoflDon ArvindKejriwal Please move beyond Delhi.. BJP wants make look weak amp discredit AAP stopped,"Sentiment(polarity=-0.0875, subjectivity=0.3625)",-0.0875,0.3625,en,,
+1233274045392543747,Shame on you @AmitShah for not acting on the terror against Hindus. We Hindus have voted you blindly and what did y… https://t.co/htxHaDRlfg,Shame AmitShah acting terror Hindus We Hindus voted blindly,"Sentiment(polarity=-0.25, subjectivity=0.3333333333333333)",-0.25,0.3333333333333333,en,"Surat, India",
+1233274044931170305,"RT @CworeRedux: BJP got a HC judge transferred overnight and had Solicitor General as personal lawyer to defend Kapil Mishra 
+
+AAP suspende…",RT CworeRedux BJP got HC judge transferred overnight Solicitor General personal lawyer defend Kapil Mishra AAP suspende,"Sentiment(polarity=0.02500000000000001, subjectivity=0.4)",0.02500000000000001,0.4,en, 🇮🇳 ,
+1233274044457218048,RT @UmarKhalidJNU: Justice Muralidhar said he cant allow a 1984 repeat. He had earlier convicted Sajjan Kumar for the Sikh genocide. This t…,RT UmarKhalidJNU Justice Muralidhar said cant allow 1984 repeat He earlier convicted Sajjan Kumar Sikh genocide This,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,,
+1233274043886919680,"RT @TheChetak: At last BJP got one leader in Delhi 
+
+Any guess guys??",RT TheChetak At last BJP got one leader Delhi Any guess guys,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,en,"Muzaffarnagar, India",
+1233274041089196032,@aartic02 @SanjayAzadSln It 'll take time but it's the only hope to avoid from future riots. Start campaigning abou… https://t.co/E6LvSWLbkW,aartic02 SanjayAzadSln It 'll take time 's hope avoid future riots Start campaigning abou,"Sentiment(polarity=0.0, subjectivity=0.125)",0.0,0.125,en,Earth🌏,
+1233274034902700032,"RT @hunmid12: He clearly mentioned as home ministry failure , the whole context is about BJP
+It just requires common sense to understand th…",RT hunmid12 He clearly mentioned home ministry failure whole context BJP It requires common sense understand th,"Sentiment(polarity=-0.07916666666666666, subjectivity=0.39583333333333337)",-0.07916666666666666,0.39583333333333337,en,,
+1233274031673004037,RT @MOU5ERAT: BJP for 2024 elections,RT MOU5ERAT BJP 2024 elections,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274031551455232,RT @RanaAyyub: This from Mukul Kesavan is extremely important especially for mainstream journalists who are playing the obscene false equiv…,RT RanaAyyub This Mukul Kesavan extremely important especially mainstream journalists playing obscene false equiv,"Sentiment(polarity=-1.850371707708594e-17, subjectivity=0.8666666666666667)",-1.850371707708594e-17,0.8666666666666667,en,,
+1233274028216860672,RT @IamKarwan: This guy is from Bihar and Now started campaigning for Bihar election.  This is how they will create hatred in every Dalits…,RT IamKarwan This guy Bihar Now started campaigning Bihar election This create hatred every Dalits,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274026660958208,"RT @TimesNow: #Breaking | TIMES NOW's reporter assaulted for questioning BJP neta Kapil Mishra. 
+
+Kapil Mishra's 'supporters' manhandle TIM…",RT TimesNow Breaking TIMES NOW 's reporter assaulted questioning BJP neta Kapil Mishra Kapil Mishra 's 'supporters manhandle TIM,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274025708670977,"RT @svaradarajan: Time to Replug Pratap Bhanu Mehta's excellent interview to Karan Thapar—'Colloquially Speaking, BJP is Fascist. And More…",RT svaradarajan Time Replug Pratap Bhanu Mehta 's excellent interview Karan Thapar 'Colloquially Speaking BJP Fascist And More,"Sentiment(polarity=0.75, subjectivity=0.75)",0.75,0.75,en,,
+1233274025281019904,"RT @TheChetak: At last BJP got one leader in Delhi 
+
+Any guess guys??",RT TheChetak At last BJP got one leader Delhi Any guess guys,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,en,"New Delhi, India",
+1233274022525390854,What is lacking in BJP. * cadre basis* Message of more than 700 schemes not reaching the beneficiaries * Modi has p… https://t.co/S5kayNxR3x,What lacking BJP cadre basis* Message 700 schemes reaching beneficiaries Modi p,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233274020063105024,"RT @OpIndia_com: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+ht…",RT OpIndia_com Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit ht,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,,
+1233274019442380800,"RT @Sir_Vibgoyr: Modi Shah RSS &amp; BJP’s  strategies to polarise the situation to win elections 
+
+@MuffirullaRazvi @zainabsikander @asmatasle…",RT Sir_Vibgoyr Modi Shah RSS amp BJP strategies polarise situation win elections MuffirullaRazvi zainabsikander asmatasle,"Sentiment(polarity=0.8, subjectivity=0.4)",0.8,0.4,en,mumbai,
+1233274019392184321,"RT @UnSubtleDesi: Delhi Anti-Hindu riots: Minutes after AAP suspends murder accused Tahir Hussain, Amanatullah Khan gives him clean chit
+
+h…",RT UnSubtleDesi Delhi Anti-Hindu riots Minutes AAP suspends murder accused Tahir Hussain Amanatullah Khan gives clean chit h,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",0.3666666666666667,0.7000000000000001,en,,
+1233274013687959552,"RT @PunyaPrakop_: One of the most imp parts of solution is “state power”. 
+Delhi showed that it won’t give state power to BJP.
+That is why…",RT PunyaPrakop_ One imp parts solution state power Delhi showed give state power BJP That,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233273997673938945,"Who is responsible for the Tears of this kid ???
+
+Saffron terrorist RSS &amp; BJP have to answer this ...
+#Delhigenocide https://t.co/Ed8HnbNvL8",Who responsible Tears kid Saffron terrorist RSS amp BJP answer ... Delhigenocide,"Sentiment(polarity=0.2, subjectivity=0.55)",0.2,0.55,en,Jupiter,
+1233273996923351041,RT @TribeccaaAngie: Congress even with all its flaws is a 1000 times better than Sanghi AAP &amp; BJP.,RT TribeccaaAngie Congress even flaws 1000 times better Sanghi AAP amp BJP,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"New Delhi, India",
+1233273996382093313,"RT @TamannaPankaj: Son of Muddasir Khan , the Martyr of Delhi Genocide 2020 with tears in his eyes .
+Congratulations BJP supporters . This…",RT TamannaPankaj Son Muddasir Khan Martyr Delhi Genocide 2020 tears eyes Congratulations BJP supporters This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,भारत,
+1233273993181958144,"RT @KabitaAmar: Riot is a part of life, says Electricity Minister of BJP ruled Haryana....
+@narendramodi @AmitShah @BJP4India @BJP4Bengal…",RT KabitaAmar Riot part life says Electricity Minister BJP ruled Haryana ... narendramodi AmitShah BJP4India BJP4Bengal,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233273986311761921,"RT @svaradarajan: In this short video, I explain why the BJP chose to allow Delhi to burn now, despite Trump’s visit | https://t.co/8e5Iqvn…",RT svaradarajan In short video I explain BJP chose allow Delhi burn despite Trump visit,"Sentiment(polarity=0.0, subjectivity=0.3)",0.0,0.3,en,"New Delhi, India",
+1233273984667418634,@rm_bjp Hear AAP providing under the table legal assistance to Tahir .... so much for Kejriwal s angst ...,rm_bjp Hear AAP providing table legal assistance Tahir ... much Kejriwal angst ...,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,en,India,"[[77.373474, 12.919037], [77.739371, 12.919037], [77.739371, 13.231381], [77.373474, 13.231381]]"
+1233273983992303616,"RT @BJP4India: LIVE: Press Conference by Shri @PrakashJavdekar at BJP Head Office, New Delhi. https://t.co/4PraFFeLON",RT BJP4India LIVE Press Conference Shri PrakashJavdekar BJP Head Office New Delhi,"Sentiment(polarity=0.13636363636363635, subjectivity=0.4772727272727273)",0.13636363636363635,0.4772727272727273,en,,
+1233273982964699138,RT @TS_SinghDeo: First we heard the pleas of the families of our bravehearts in Pulwama for non payment of compensation and now an attacker…,RT TS_SinghDeo First heard pleas families bravehearts Pulwama non payment compensation attacker,"Sentiment(polarity=0.25, subjectivity=0.3333333333333333)",0.25,0.3333333333333333,en,Indore (M.P.) India,
+1233273981970464768,RT @IamAlok_Verma: @TribeccaaAngie Taliban is better entity to compare with BJP. Never try to compare BJP with INC. INC is a political part…,RT IamAlok_Verma TribeccaaAngie Taliban better entity compare BJP Never try compare BJP INC. INC political part,"Sentiment(polarity=0.25, subjectivity=0.3)",0.25,0.3,en,"Imperial, CA",
+1233273980389330944,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,Dumeels land,
+1233273973812518912,"RT @__R_a_j_: What can an average Hindu do for his religion &amp; culture ?
+
+Thread :
+
+1. Vote BJP : 
+Most important thing as of today, politic…",RT __R_a_j_ What average Hindu religion amp culture Thread 1 Vote BJP Most important thing today politic,"Sentiment(polarity=0.25, subjectivity=0.6333333333333333)",0.25,0.6333333333333333,en,,
+1233273970255745024,"RT @RangDeTiranga: Aap Chronology Samajhye:-
+
+Judge Loya was handling Tadipar's case.
+Judge Loya died unnatural death.
+
+Justice Murlidhar o…",RT RangDeTiranga Aap Chronology Samajhye- Judge Loya handling Tadipar 's case Judge Loya died unnatural death Justice Murlidhar,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"New Delhi, Delhi",
+1233273966992642048,RT @omthanvi: AAP’s Credibility Crisis: An AAP office-bearer told this paper: “We have lost trust. Many see us as ineffective at best and o…,RT omthanvi AAP Credibility Crisis An AAP office-bearer told paper We lost trust Many see us ineffective best,"Sentiment(polarity=0.75, subjectivity=0.4)",0.75,0.4,en,,
+1233273965365186561,"RT @TimesNow: #Breaking | TIMES NOW's reporter assaulted for questioning BJP neta Kapil Mishra. 
+
+Kapil Mishra's 'supporters' manhandle TIM…",RT TimesNow Breaking TIMES NOW 's reporter assaulted questioning BJP neta Kapil Mishra Kapil Mishra 's 'supporters manhandle TIM,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Azara, Guwahati-17, Assam",
+1233273964434264064,"RT @Parv05: While I was covering a peace March today in Jantar Mantar, BJP representative Kapil Mishra too reach the spot and I did my job…",RT Parv05 While I covering peace March today Jantar Mantar BJP representative Kapil Mishra reach spot I job,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233273963159138304,"RT @SwarajyaMag: Delhi Violence: Arvind Kejriwal’s Right Hand Amanatullah Khan Defends Tahir Hussein, Blames BJP For “False Case” 
+
+https:/…",RT SwarajyaMag Delhi Violence Arvind Kejriwal Right Hand Amanatullah Khan Defends Tahir Hussein Blames BJP For False Case https/,"Sentiment(polarity=-0.05714285714285719, subjectivity=0.5678571428571428)",-0.05714285714285719,0.5678571428571428,en,,
+1233273962831863808,"RT @knightwatchman_: BJP leader BL Santhosh threatened Bernie Sanders that he is compelling them(BJP) to interfere in the US elections.
+
+He…",RT knightwatchman_ BJP leader BL Santhosh threatened Bernie Sanders compelling BJP interfere US elections He,"Sentiment(polarity=0.3, subjectivity=0.6)",0.3,0.6,en,God's own country. ,
+1233273960717942785,"@TimesNow @KapilMishra_IND Mr.Hate is being garlanded by BJP. After report of attack, all media friends should laun… https://t.co/bwMfL8RYLK",TimesNow KapilMishra_IND Mr.Hate garlanded BJP After report attack media friends laun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Bangalore,
+1233273959153426433,"RT @CTRavi_BJP: ✓ Akbaruddin Owaisi
+✓ Sharjeel Imam
+✓ Amanatullah Khan
+✓ Waris Pathan
+✓ Urban Naxals
+
+made provocative speeches during #CAA…",RT CTRavi_BJP Akbaruddin Owaisi Sharjeel Imam Amanatullah Khan Waris Pathan Urban Naxals made provocative speeches CAA,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233273958851584000,"RT @BJP4India: Glimpses: BJP National President Shri @JPNadda addressing State office bearers and district presidents meeting in Shimla, Hi…",RT BJP4India Glimpses BJP National President Shri JPNadda addressing State office bearers district presidents meeting Shimla Hi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233273957630894080,"RT @SwamyBhakt: 'Nehru was envious of Ambedkar, Savarkar': BJP MP Dr Subramanian @Swamy39 
+ https://t.co/mWXUFTpA8B",RT SwamyBhakt 'Nehru envious Ambedkar Savarkar BJP MP Dr Subramanian Swamy39,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233273956708339713,"@basant_kishor @ndtv Basant, RSS/BJP has so much brainwashed ppl like you with their #hatePracharakta that you guys… https://t.co/U8BGPwcOLp",basant_kishor ndtv Basant RSS/BJP much brainwashed ppl like hatePracharakta guys,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,en,,
+1233273954456023041,"RT @nilanjanaroy: Close to 40 dead. Journalists making that ""both sides"" argument, you have amnesia if you've forgotten the run-up to the D…",RT nilanjanaroy Close 40 dead Journalists making `` sides '' argument amnesia 've forgotten run-up D,"Sentiment(polarity=-0.2, subjectivity=0.4)",-0.2,0.4,en,"Bengaluru, India",
+1233273949674295298,"RT @srivatsayb: This is the man from a viral video who was rioting shouting 'Jai Shri Ram'
+
+He sits here like a wimp after Muslims caught &amp;…",RT srivatsayb This man viral video rioting shouting 'Jai Shri Ram' He sits like wimp Muslims caught amp,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India,
+1233273948625870848,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,गौऊ शाला इन भक्तलैंड ,
+1233273945966751744,"RT @VickyKedia: Difference between AAP &amp; BJP
+
+✅Tahir Hussain (AAP)
+ - No video evidence which proves his presence
+- FIR lodged based on Med…",RT VickyKedia Difference AAP amp BJP Tahir Hussain AAP No video evidence proves presence FIR lodged based Med,"Sentiment(polarity=0.3, subjectivity=0.0)",0.3,0.0,en,,
+1233273944355926016,@barandbench @aimim_national @asadowaisi @imAkbarOwaisi @warispathan @MirchiSayema @ReallySwara @KhanAmanatullah… https://t.co/p1i8ATuE36,barandbench aimim_national asadowaisi imAkbarOwaisi warispathan MirchiSayema ReallySwara KhanAmanatullah,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Hyderabad, India",
+1233273939977109505,@Babu_Bhaiyaa @sambitswaraj These coward BJP leaders will take only Hindu votes and will do Sabka sath Sabka Vikas… https://t.co/lNuoXoqxHx,Babu_Bhaiyaa sambitswaraj These coward BJP leaders take Hindu votes Sabka sath Sabka Vikas,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Bangalore,
+1233273939104870401,"RT @BJP4India: Glimpses: BJP National President Shri @JPNadda addressing State office bearers and district presidents meeting in Shimla, Hi…",RT BJP4India Glimpses BJP National President Shri JPNadda addressing State office bearers district presidents meeting Shimla Hi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Bhiwandi, India",
+1233273937817006081,"RT @ArijitmINC: BJP planning for Shaheen Bagh on 1st of March,2020. Got this video on social media.If that is true then it will be terrible…","RT ArijitmINC BJP planning Shaheen Bagh 1st March,2020 Got video social media.If true terrible","Sentiment(polarity=-0.20555555555555557, subjectivity=0.5722222222222223)",-0.20555555555555557,0.5722222222222223,en,"Hyderabad, India",
+1233273932276367360,@chetan_bhagat @simon_robin We shd supply BJP leaders life long supply of Corona to keep their spirits up.,chetan_bhagat simon_robin We shd supply BJP leaders life long supply Corona keep spirits,"Sentiment(polarity=-0.05, subjectivity=0.4)",-0.05,0.4,en,Bombay,
+1233273930691096577,RT @UmarKhalidJNU: Justice Muralidhar said he cant allow a 1984 repeat. He had earlier convicted Sajjan Kumar for the Sikh genocide. This t…,RT UmarKhalidJNU Justice Muralidhar said cant allow 1984 repeat He earlier convicted Sajjan Kumar Sikh genocide This,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,Zog Galaxy,
+1233273928300318720,"RT @SidrahDP: Translation: Anything against the dictats and beliefs of the BJP is hate speech.
+
+Our justice system is now catering to cripp…",RT SidrahDP Translation Anything dictats beliefs BJP hate speech Our justice system catering cripp,"Sentiment(polarity=-0.8, subjectivity=0.9)",-0.8,0.9,en,Purgatory,
+1233273923061481474,"RT @BJTrivedi: No Hindu Muslim riots.
+Created by Congress, Owaisi and Kejriwal to draw attn of @POTUS to tarnish images of our PM Modi, HM…",RT BJTrivedi No Hindu Muslim riots Created Congress Owaisi Kejriwal draw attn POTUS tarnish images PM Modi HM,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,India. ,
+1233273915838996480,"RT @kapsology: So the assumptions are true.
+
+Sanghi goons from Western UP are sent to Delhi for spreading riots and killing Delhi people fo…",RT kapsology So assumptions true Sanghi goons Western UP sent Delhi spreading riots killing Delhi people fo,"Sentiment(polarity=0.175, subjectivity=0.325)",0.175,0.325,en,"Lucknow, India",
+1233273915348148224,RT @TapasDeyINC: Body guards of Tripura State BJP Govt.'s Cabinet Member Santana Chakma has been detained for drugs smuggling. Involvement…,RT TapasDeyINC Body guards Tripura State BJP Govt 's Cabinet Member Santana Chakma detained drugs smuggling Involvement,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233273913234214913,RT @OpIndia_com: Billionaire Democrat George Soros in January announced that he will commit a billion dollars towards 'fighting' nationalis…,RT OpIndia_com Billionaire Democrat George Soros January announced commit billion dollars towards 'fighting nationalis,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233273907047649281,"RT @PrezzVerde: Today is #NationalScienceDay2020.
+Waiting for BJP leaders to come up with thier new scientific theories. 
+Aisa mauka ek saa…",RT PrezzVerde Today NationalScienceDay2020 Waiting BJP leaders come thier new scientific theories Aisa mauka ek saa,"Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)",0.13636363636363635,0.45454545454545453,en,God's own country. ,
+1233273903813779456,"RT @SidrahDP: Translation: Anything against the dictats and beliefs of the BJP is hate speech.
+
+Our justice system is now catering to cripp…",RT SidrahDP Translation Anything dictats beliefs BJP hate speech Our justice system catering cripp,"Sentiment(polarity=-0.8, subjectivity=0.9)",-0.8,0.9,en,,
+1233273903453216768,RT @steve_hanke: 38 people have died in the #DelhiRiots. @narendramodi is only interested in deepening religious divides with his #Hindutva…,RT steve_hanke 38 people died DelhiRiots narendramodi interested deepening religious divides Hindutva,"Sentiment(polarity=0.125, subjectivity=0.375)",0.125,0.375,en,"Bengaluru, India",
+1233273902517903360,"RT @kapsology: So the assumptions are true.
+
+Sanghi goons from Western UP are sent to Delhi for spreading riots and killing Delhi people fo…",RT kapsology So assumptions true Sanghi goons Western UP sent Delhi spreading riots killing Delhi people fo,"Sentiment(polarity=0.175, subjectivity=0.325)",0.175,0.325,en,,
+1233273898810183680,"@PrinceArihan BJP seriously lacks political will to take firm action against culprits, whether Hindu or Muslims. Th… https://t.co/hJtmhlz5ix",PrinceArihan BJP seriously lacks political take firm action culprits whether Hindu Muslims Th,"Sentiment(polarity=-0.10833333333333334, subjectivity=0.31666666666666665)",-0.10833333333333334,0.31666666666666665,en,Mumbai,
+1233273897396690944,"RT @AudreyTruschke: I lectured about the #DelhiPogrom this morning and already my numbers are out of date.
+
+The death toll now stands at 40…",RT AudreyTruschke I lectured DelhiPogrom morning already numbers date The death toll stands 40,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,London,
+1233273897174175744,"RT @steve_hanke: This isn’t the Gestapo or KGB. These are #Modi’s #RSS thugs breaking into #Muslim homes, pillaging &amp; assaulting with impun…",RT steve_hanke This Gestapo KGB These Modi RSS thugs breaking Muslim homes pillaging amp assaulting impun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Depok, Jawa Barat",
+1233273895324614656,@INCIndia He has declare the agenda of #BJP nothing more.,INCIndia He declare agenda BJP nothing,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
+1233273893218963458,RT @v_shrivsatish: Reached Ahemdabad short while ago n attending Bjp Gujarat unit meeting on major features of Union Budget n another of SC…,RT v_shrivsatish Reached Ahemdabad short ago n attending Bjp Gujarat unit meeting major features Union Budget n another SC,"Sentiment(polarity=0.03125, subjectivity=0.4)",0.03125,0.4,en,,
+1233273893072203776,"RT @arjundsage: One more rapist emerges from Bharat Jalao Party 
+
+https://t.co/TtAzfRMg2w",RT arjundsage One rapist emerges Bharat Jalao Party,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Karnataka, India",
+1233273890731778048,RT @kunalkamra88: If someone from the AAP could make petrol bombs &amp; store ammunition with the intent of killing innocent people he’d be rec…,RT kunalkamra88 If someone AAP could make petrol bombs amp store ammunition intent killing innocent people rec,"Sentiment(polarity=0.5, subjectivity=0.7)",0.5,0.7,en,,
+1233273884239114241,RT @steve_hanke: A #BJP representative parades with supporters chanting “shoot the traitors.” This is the #Hindutva #PoliceState. This is #…,RT steve_hanke A BJP representative parades supporters chanting shoot traitors This Hindutva PoliceState This,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Pakistan,
+1233273883525931008,"RT @GoofyOlives: Part 2: Anti CAA protest planned or just a  coincidences of events.
+
+By January 2020 results of Jharkhand were out and BJP…",RT GoofyOlives Part 2 Anti CAA protest planned coincidences events By January 2020 results Jharkhand BJP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1233273878954287105,RT @bharat_builder: Yes. This was obvious. Locals didn't want violence so BJP got outsiders involved.,RT bharat_builder Yes This obvious Locals n't want violence BJP got outsiders involved,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,"Dehradun, India",
