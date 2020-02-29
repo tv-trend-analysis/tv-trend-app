@@ -5,7 +5,7 @@ import hidden
 import string
 from textblob import TextBlob
 import textpre
- 
+
 #Twitter credentials for the app
 consumer_key = hidden.key[0]
 consumer_secret = hidden.key[1]
@@ -25,9 +25,9 @@ COLS = ['id', 'original_text','clean_text', 'sentiment','polarity','subjectivity
 #method write_tweets()
 def write_tweets(keyword, file):
     df = pd.DataFrame(columns=COLS)
+    q=keyword + ' -filter:retweets'
     #page attribute in tweepy.cursor and iteration
-    for page in tweepy.Cursor(api.search, q=keyword,
-                              count=10, include_rts=False).pages(50):
+    for page in tweepy.Cursor(api.search, q, count=10, include_rts=False).pages(50):
         for status in page:
             new_entry = []
             status = status._json
@@ -35,9 +35,6 @@ def write_tweets(keyword, file):
             ## check whether the tweet is in english or skip to the next tweet
             if status['lang'] != 'en':
                 continue
- 
-
- 
  
             #preprocessing
             filtered_tweet=textpre.clean_tweets(status['text'])
