@@ -5,7 +5,8 @@ import hidden
 import string
 from textblob import TextBlob
 import textpre
- 
+import trans #google translate function
+
 #Twitter credentials for the app
 consumer_key = hidden.key[0]
 consumer_secret = hidden.key[1]
@@ -16,7 +17,7 @@ access_secret = hidden.key[3]
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
 api = tweepy.API(auth)
- 
+
 
 #columns of the csv file
 COLS = ['id', 'original_text','clean_text', 'sentiment','polarity','subjectivity', 'lang', 'place', 'place_coord_boundaries']
@@ -24,24 +25,22 @@ COLS = ['id', 'original_text','clean_text', 'sentiment','polarity','subjectivity
  
 #method write_tweets()
 def write_tweets(keyword, file):
+    q=keyword + ' -filter:retweets'
     df = pd.DataFrame(columns=COLS)
     #page attribute in tweepy.cursor and iteration
-    for page in tweepy.Cursor(api.search, q=keyword,
-                              count=10, include_rts=False).pages(50):
+    for page in tweepy.Cursor(api.search, q,
+                              count=1, include_rts=False).pages(50):
         for status in page:
             new_entry = []
             status = status._json
- 
-            ## check whether the tweet is in english or skip to the next tweet
-            if status['lang'] != 'en':
-                continue
- 
 
- 
- 
             #preprocessing
             filtered_tweet=textpre.clean_tweets(status['text'])
- 
+
+            # check whether the tweet is in english or skip to the next tweet
+            if status['lang'] != 'en':
+                filtered_tweet=trans.trans(filtered_tweet)
+            
             #pass textBlob method for sentiment calculations
             blob = TextBlob(filtered_tweet)
             Sentiment = blob.sentiment
@@ -70,6 +69,7 @@ def write_tweets(keyword, file):
             df = df.append(single_tweet_df, ignore_index=True)
     csvFile = open(file, 'a' ,encoding='utf-8')
     df.to_csv(csvFile, mode='a', columns=COLS, index=False, encoding="utf-8")
+    
  
 #declare keywords as a query
 querykeyword=input("Enter Query: ")
