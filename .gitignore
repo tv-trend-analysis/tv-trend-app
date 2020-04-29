@@ -1,1 +1,4 @@
-hidden.py
+.vscode
+.idea
+__pycache__
+env

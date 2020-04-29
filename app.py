@@ -1,104 +1,67 @@
+import os
+from flask import Flask, render_template, request, send_from_directory
+import fetch
+import dirwalk
 import pandas as pd
-import tweepy
-import re
-import hidden
-import string
-from textblob import TextBlob
-import textpre  #user defined library for text preprocessing
-import trans  # google translate library
 
-# Twitter credentials for the app
-consumer_key = hidden.key[0]
-consumer_secret = hidden.key[1]
-access_key = hidden.key[2]
-access_secret = hidden.key[3]
+app = Flask(__name__)
 
-# pass twitter credentials to tweepy
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_key, access_secret)
-api = tweepy.API(auth)
-
-# columns of the csv file
-COLS = ['id', 'original_text', 'clean_text', 'sentiment', 'polarity', 'subjectivity', 'lang', 'place',
-        'place_coord_boundaries']
-
-total_polarity = 0
-total_subjectivity = 0
+resultlist = []
+query = " "
 
 
-# method write_tweets()
-def write_tweets(keyword, file):
-    global total_polarity, total_subjectivity
-    q = keyword + ' -filter:retweets'
-    df = pd.DataFrame(columns=COLS)
-    # page attribute in tweepy.cursor and iteration
-    for page in tweepy.Cursor(api.search, q, count=10, include_rts=False).pages(10):
-
-        for status in page:
-            print("|", end="")
-            new_entry = []
-            status = status._json
-
-            # preprocessing
-            filtered_tweet = textpre.clean_tweets(status['text'])
-
-            # check whether the tweet is in english or skip to the next tweet
-            if status['lang'] != 'en':
-                filtered_tweet = trans.trans(filtered_tweet)
-
-            # pass textBlob method for sentiment calculations
-            blob = TextBlob(filtered_tweet)
-            Sentiment = blob.sentiment
-
-            # seperate polarity and subjectivity in to two variables
-            polarity = Sentiment.polarity
-            subjectivity = Sentiment.subjectivity
-
-            # new entry append
-            new_entry += [status['id'], status['text'], filtered_tweet, Sentiment, polarity, subjectivity,
-                          status['lang']]
-
-            # calculating total polarity
-            total_polarity += polarity
-
-            # calculating total subjectivity
-            total_subjectivity += subjectivity
-
-            # get location of the tweet if possible
-            try:
-                location = status['user']['location']
-            except TypeError:
-                location = ''
-            new_entry.append(location)
-
-            try:
-                coordinates = [coord for loc in status['place']['bounding_box']['coordinates'] for coord in loc]
-            except TypeError:
-                coordinates = None
-            new_entry.append(coordinates)
-
-            single_tweet_df = pd.DataFrame([new_entry], columns=COLS)
-            df = df.append(single_tweet_df, ignore_index=True)
-        #print("Fetching tweets....")
-    csvFile = open(file, 'a', encoding='utf-8')
-    df.to_csv(csvFile, mode='a', columns=COLS, index=False, encoding="utf-8")
-    no_of_rows=len(df)
-    print("\n",str(len(df)),"tweets fetched.")
-    print(df[['id','clean_text','polarity','subjectivity','place']].head(10))
-    avgpol=total_polarity/no_of_rows
-    print("\n\nThe average polarity of fetched tweets = ", avgpol)
-    print("The average subjectivity of fetched tweets = ", total_subjectivity/no_of_rows)
-    if avgpol>0:
-        print("\n\nPostive")
-    elif avgpol==0:
-        print("\n\nNeutral")
-    else:
-        print("\n\nNegative")
+@app.route('/')
+def home():
+    return render_template('index.html')
 
 
-# declare keywords as a query
-querykeyword = input("Enter Query: ")
-print("Fetching tweets:  ", end=" ")
-store_tweets = "data/" + querykeyword + ".csv"
-# call main method passing keywords and file path
-write_tweets(querykeyword, store_tweets)
+@app.route('/')
+def main():
+    return render_template('index.html',showslist=dirwalk.showslist())
+
+
+# favicon route
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
+
+
+@app.route('/result', methods=['POST', 'GET'])
+def result():
+    if request.method == 'POST':
+        global query
+        global resultlist
+        query = request.form['query']
+        if query not in dirwalk.showslist():
+            resultlist = fetch.main(query)
+        else:
+            df = pd.read_csv('data/' + query + '.csv')
+            resultlist.append(len(df))
+            df["polarity"] = pd.to_numeric(df["polarity"], errors='coerce')
+            df["subjectivity"] = pd.to_numeric(df["subjectivity"], errors='coerce')
+            resultlist.append(df["polarity"].mean())
+            resultlist.append(df['subjectivity'].mean())
+            if float(resultlist[1]) > 0:
+                resultlist.append('Positive')
+            elif float(resultlist[1]) == 0:
+                resultlist.append('Neutral')
+            else:
+                resultlist.append('Negative')
+    return render_template("result.html", query=query, tweets_count=resultlist[0], avgpol=resultlist[1],
+                           avgsub=resultlist[2], pol=resultlist[3])
+
+
+@app.route('/list')
+def list():
+    showlist = dirwalk.showslist()
+    return render_template("list.html", showlist=showlist)
+
+
+@app.route('/about')
+def about():
+    return render_template("about.html")
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
