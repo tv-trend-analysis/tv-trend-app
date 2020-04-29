@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block navcontents %}
+    <a href="./">Home</a>
+    <a class="active" href="./list">List</a>
+    <a href="./about">Description</a>
+{% endblock %}
+
+
+{% block head %}
+<style>
+    td
+    {
+    color:white;
+    }
+</style>
+{% endblock %}
+
+{% block body %}
+    <br><br>
+    <table class="tvlist">
+        <tr>
+            <th>Index</th>
+            <th>Name</th>
+        </tr>
+
+        {%for names in showlist%}
+            <tr>
+                <td>{{showlist.index(names) + 1}}</td>
+                <td>{{names}}</td>
+            </tr>
+        {% endfor %}
+
+    </table>
+
+{% endblock %}

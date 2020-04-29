@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block navcontents %}
+    <a href="./">Home</a>
+    <a href="./list">List</a>
+    <a href="./about">Description</a>
+{% endblock %}
+
+{% block head %}
+
+<link href="{{ url_for('static', filename='preloader.css') }}" rel="stylesheet">
+
+{% endblock %}
+
+
+{% block body %}
+
+
+<div class="result">
+   <h2>Fetching Complete!</h2>
+   <h3>Name of TV Show: <b>{{query}}</b></h3>
+
+   <p>More information:
+      <br>
+      <a href="https://www.google.com/search?q={{query}}" target="_blank">Google</a>
+      <a href="https://en.wikipedia.org/wiki/{{query}}" target="_blank">Wikipedia</a>
+      <a href="https://www.imdb.com/find?q={{query}}" target="_blank">IMDB</a>
+   </p>
+   <p>Total tweets fetched: <b>{{tweets_count}}</b></p>
+   <p>Average Polarity: <b>{{avgpol}}</b></p>
+   <p>Average Subjectivity: <b>{{avgsub}}</b></p>
+   <p>Overall Sentiment: <b>{{pol}}</b></p>
+</div>
+<script src="{{ url_for('static', filename='preloader.js') }}"></script>
+
+{% endblock %}

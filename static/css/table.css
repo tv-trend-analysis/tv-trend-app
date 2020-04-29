@@ -1,0 +1,38 @@
+table
+{
+    border-collapse: collapse;
+    margin: 0px;
+    padding: 0%;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+
+tr, td
+{
+    border: 2px solid black;
+    height: 60px;
+    width: 400px;
+    margin: 0px;
+    padding: 0%;    
+    
+}
+
+th
+{
+    border: 2px solid black;
+    height: 60px;
+    width: 400px;
+    margin: 0px;
+    padding: 0%; 
+    background-color: #ff8b00;
+    text-emphasis: bold;
+}
+
+table.tvlist
+{
+    margin-left:auto; 
+    margin-right:auto;
+}

@@ -1,0 +1,65 @@
+div.form
+{
+    font-family: 'Sen';
+    width: 300px;
+    margin: 0 auto;
+}
+
+
+input, select
+{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 20px 0px;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #525151;
+}
+
+
+input[type=submit]
+{
+    font-family: Sen;
+    font-size: large;
+    width: 100%;
+    background-color: #363636;
+    border: 2px solid #ff8b00;
+    color: black;
+    padding: 8px 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+  
+  input[type=submit]:hover
+{
+    background-color: #ff8b00;
+    border: black;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+}
+.button
+{
+    font-family: Sen;
+    font-size: large;
+    width: 100%;
+    background-color: #ff8b00;
+    color: black;
+    padding: 14px 20px;
+    margin: 30px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button:hover
+{
+    background-color: #ff8b00;
+    border: black;
+    border-style: groove;
+    border-color: black;
+    border-radius: 4px;
+}

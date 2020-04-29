@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        TV TREND WEB-APP
+    </title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/topnav.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/table.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/form.css') }}">
+
+    <div class="title">
+        <br><br>
+        <h1 style="text-align: center" href="/index">TV SHOW TREND ANALYSIS</h1>
+        <br><br>
+    </div>
+
+
+    <div class="topnav">
+        <hr style="margin-bottom: 0px; margin-top: 0px">
+        {%block navcontents%}
+
+        {%endblock%}
+    </div>
+    <hr style="margin-bottom: 5px; margin-top: 0px">
+    <br>
+
+    {% block head %}{% endblock %}
+</head>
+<body>
+    {% block body %}{% endblock %}
+</body>
+</html>

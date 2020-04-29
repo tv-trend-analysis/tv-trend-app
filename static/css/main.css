@@ -1,0 +1,35 @@
+@font-face
+{
+    font-family: 'Sen';
+    src: url(Sen.ttf) format(ttf);
+}
+
+body
+{
+    font-family: 'Sen';
+    background-color: #222222;
+    margin: 0;
+}
+
+div.title
+{
+    background-color: #e37302;
+    font-family: Sen;
+    font-size: 20px;
+    font-weight:bold;
+}
+
+div.content
+{
+    font-family: 'Sen';
+    margin: 0px;
+    text-align: center;
+}
+
+
+div.result
+{
+    font-family: 'Sen';
+    text-align: center;
+    color: white;
+}

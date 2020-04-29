@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block navcontents %}
+<a class="active" href="./">Home</a>
+<a href="./list">List</a>
+<a href="./about">Description</a>
+{% endblock %}
+
+{% block head %}
+
+<link href="{{ url_for('static', filename='preloader.css') }}" rel="stylesheet">
+
+{% endblock %}
+
+{% block body %}
+
+<div class="form">
+   <form action="./result" method="POST">
+         <p style="color:white;"><b>
+             Enter Name of the TV Show</b>
+         <br>
+         <br>
+          <input list="tv shows" name="query" placeholder="Enter here">
+         <datalist id="tv shows">
+            {%for show in showslist%}
+
+               <option value='show'>
+            {%endfor%}
+         </datalist>
+         <script src="{{ url_for('static', filename='preloader.js') }}"></script>
+         <input type="submit" value="Search" style="color:white;" />
+         <br>
+   </form>
+</div>
+
+{% endblock %}
